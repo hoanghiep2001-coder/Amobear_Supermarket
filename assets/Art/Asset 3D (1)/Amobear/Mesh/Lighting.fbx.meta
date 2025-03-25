@@ -1,0 +1,123 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "363b3bfb-fa0c-4791-9b55-1933fc5e417b",
+  "files": [],
+  "subMetas": {
+    "faad7": {
+      "importer": "gltf-mesh",
+      "uuid": "363b3bfb-fa0c-4791-9b55-1933fc5e417b@faad7",
+      "displayName": "",
+      "id": "faad7",
+      "name": "Cylinder.003.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48b02": {
+      "importer": "gltf-embeded-image",
+      "uuid": "363b3bfb-fa0c-4791-9b55-1933fc5e417b@48b02",
+      "displayName": "",
+      "id": "48b02",
+      "name": "base_color_texture.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7d6ab": {
+      "importer": "texture",
+      "uuid": "363b3bfb-fa0c-4791-9b55-1933fc5e417b@7d6ab",
+      "displayName": "",
+      "id": "7d6ab",
+      "name": "base_color_texture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "363b3bfb-fa0c-4791-9b55-1933fc5e417b@48b02"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "23da9": {
+      "importer": "gltf-material",
+      "uuid": "363b3bfb-fa0c-4791-9b55-1933fc5e417b@23da9",
+      "displayName": "",
+      "id": "23da9",
+      "name": "Color.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a39c7": {
+      "importer": "gltf-scene",
+      "uuid": "363b3bfb-fa0c-4791-9b55-1933fc5e417b@a39c7",
+      "displayName": "",
+      "id": "a39c7",
+      "name": "Lighting.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "base_color_texture",
+        "uri": "363b3bfb-fa0c-4791-9b55-1933fc5e417b@48b02"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "redirect": "363b3bfb-fa0c-4791-9b55-1933fc5e417b@a39c7",
+    "assetFinder": {
+      "meshes": [
+        "363b3bfb-fa0c-4791-9b55-1933fc5e417b@faad7"
+      ],
+      "skeletons": [],
+      "textures": [
+        "363b3bfb-fa0c-4791-9b55-1933fc5e417b@7d6ab"
+      ],
+      "materials": [
+        "363b3bfb-fa0c-4791-9b55-1933fc5e417b@23da9"
+      ],
+      "scenes": [
+        "363b3bfb-fa0c-4791-9b55-1933fc5e417b@a39c7"
+      ]
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "HealthBar_pts",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 187,
+      "height": 105
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 187,
+      "height": 105
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "ffabf5f7-0bba-4fee-92cd-98e66142c93a@6c48a",
+    "packable": true
+  }
+}

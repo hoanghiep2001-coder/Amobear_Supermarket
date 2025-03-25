@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Emoji-Trail",
+    "atlas": "",
+    "rect": {
+      "x": 11,
+      "y": 14,
+      "width": 131,
+      "height": 122
+    },
+    "offset": {
+      "x": 1.5,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 150,
+      "height": 150
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "202e52b3-830c-43fc-97c7-2710d2c14f64@6c48a",
+    "packable": true
+  }
+}

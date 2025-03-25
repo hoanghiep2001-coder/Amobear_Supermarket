@@ -1,0 +1,58 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "76153bac-3f20-4916-a284-0bfdca215a4a",
+  "files": [],
+  "subMetas": {
+    "b0945": {
+      "importer": "gltf-mesh",
+      "uuid": "76153bac-3f20-4916-a284-0bfdca215a4a@b0945",
+      "displayName": "",
+      "id": "b0945",
+      "name": "Watermelon_LOD0.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9d807": {
+      "importer": "gltf-scene",
+      "uuid": "76153bac-3f20-4916-a284-0bfdca215a4a@9d807",
+      "displayName": "",
+      "id": "9d807",
+      "name": "item_Watermelon.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "redirect": "76153bac-3f20-4916-a284-0bfdca215a4a@9d807",
+    "assetFinder": {
+      "meshes": [
+        "76153bac-3f20-4916-a284-0bfdca215a4a@b0945"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "76153bac-3f20-4916-a284-0bfdca215a4a@9d807"
+      ]
+    }
+  }
+}

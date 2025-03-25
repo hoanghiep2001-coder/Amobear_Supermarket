@@ -1,0 +1,58 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "feba1ff7-c635-499a-9267-963beba0b0ce",
+  "files": [],
+  "subMetas": {
+    "93b53": {
+      "importer": "gltf-mesh",
+      "uuid": "feba1ff7-c635-499a-9267-963beba0b0ce@93b53",
+      "displayName": "",
+      "id": "93b53",
+      "name": "item_Coffee_Medium_Roast.001.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6d1d5": {
+      "importer": "gltf-scene",
+      "uuid": "feba1ff7-c635-499a-9267-963beba0b0ce@6d1d5",
+      "displayName": "",
+      "id": "6d1d5",
+      "name": "item_Coffee_Medium.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "redirect": "feba1ff7-c635-499a-9267-963beba0b0ce@6d1d5",
+    "assetFinder": {
+      "meshes": [
+        "feba1ff7-c635-499a-9267-963beba0b0ce@93b53"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "feba1ff7-c635-499a-9267-963beba0b0ce@6d1d5"
+      ]
+    }
+  }
+}

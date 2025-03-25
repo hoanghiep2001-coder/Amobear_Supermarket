@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "taptroopenbox",
+    "atlas": "",
+    "rect": {
+      "x": 7,
+      "y": 6,
+      "width": 682,
+      "height": 92
+    },
+    "offset": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "originalSize": {
+      "width": 695,
+      "height": 105
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "5551cc80-9e71-4bb2-ac2f-9c68db64688b@6c48a",
+    "packable": true
+  }
+}

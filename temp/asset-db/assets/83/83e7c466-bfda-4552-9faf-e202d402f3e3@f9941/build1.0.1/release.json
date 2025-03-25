@@ -1,0 +1,53 @@
+[
+    1,
+    [
+        "8358Rmv9pFUp+v4gLUAvPj@6c48a"
+    ],
+    [
+        "_textureSource"
+    ],
+    [
+        "cc.SpriteFrame"
+    ],
+    0,
+    [
+        {
+            "name": "Hand_2",
+            "rect": {
+                "x": 70,
+                "y": 61,
+                "width": 228,
+                "height": 229
+            },
+            "offset": {
+                "x": 0.5,
+                "y": 7
+            },
+            "originalSize": {
+                "width": 367,
+                "height": 365
+            },
+            "rotated": false,
+            "capInsets": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "packable": true
+        }
+    ],
+    [
+        0
+    ],
+    0,
+    [
+        0
+    ],
+    [
+        0
+    ],
+    [
+        0
+    ]
+]

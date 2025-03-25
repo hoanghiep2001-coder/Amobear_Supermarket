@@ -1,0 +1,401 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "5cd42c25-9b0a-42f5-a31a-2373fa3bdf81",
+  "files": [
+    "__original-animation-0.cconb",
+    "__original-animation-1.cconb",
+    "__original-animation-2.cconb",
+    "__original-animation-3.cconb"
+  ],
+  "subMetas": {
+    "f4344": {
+      "importer": "gltf-mesh",
+      "uuid": "5cd42c25-9b0a-42f5-a31a-2373fa3bdf81@f4344",
+      "displayName": "",
+      "id": "f4344",
+      "name": "extracted_01_Material0.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "66aec": {
+      "importer": "gltf-mesh",
+      "uuid": "5cd42c25-9b0a-42f5-a31a-2373fa3bdf81@66aec",
+      "displayName": "",
+      "id": "66aec",
+      "name": "GioHang.mesh",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "73b7f": {
+      "importer": "gltf-animation",
+      "uuid": "5cd42c25-9b0a-42f5-a31a-2373fa3bdf81@73b7f",
+      "displayName": "",
+      "id": "73b7f",
+      "name": "Take 001.animation",
+      "userData": {
+        "gltfIndex": 0,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 6.25
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "c4f88": {
+      "importer": "gltf-animation",
+      "uuid": "5cd42c25-9b0a-42f5-a31a-2373fa3bdf81@c4f88",
+      "displayName": "",
+      "id": "c4f88",
+      "name": "Payment_CardStart.animation",
+      "userData": {
+        "gltfIndex": 1,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.125
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "49b75": {
+      "importer": "gltf-animation",
+      "uuid": "5cd42c25-9b0a-42f5-a31a-2373fa3bdf81@49b75",
+      "displayName": "",
+      "id": "49b75",
+      "name": "Payment_CardIdle.animation",
+      "userData": {
+        "gltfIndex": 2,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 3.3333332538604736
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "f5375": {
+      "importer": "gltf-animation",
+      "uuid": "5cd42c25-9b0a-42f5-a31a-2373fa3bdf81@f5375",
+      "displayName": "",
+      "id": "f5375",
+      "name": "Payment_CardBack.animation",
+      "userData": {
+        "gltfIndex": 3,
+        "wrapMode": 2,
+        "sample": 30,
+        "span": {
+          "from": 0,
+          "to": 1.2916666269302368
+        },
+        "events": []
+      },
+      "ver": "1.0.16",
+      "imported": true,
+      "files": [
+        ".cconb"
+      ],
+      "subMetas": {}
+    },
+    "438fe": {
+      "importer": "gltf-skeleton",
+      "uuid": "5cd42c25-9b0a-42f5-a31a-2373fa3bdf81@438fe",
+      "displayName": "",
+      "id": "438fe",
+      "name": "UnnamedSkeleton.skeleton",
+      "userData": {
+        "gltfIndex": 0,
+        "jointsLength": 52
+      },
+      "ver": "1.0.1",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "48b02": {
+      "importer": "gltf-embeded-image",
+      "uuid": "5cd42c25-9b0a-42f5-a31a-2373fa3bdf81@48b02",
+      "displayName": "",
+      "id": "48b02",
+      "name": "base_color_texture.image",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.3",
+      "imported": true,
+      "files": [
+        ".png",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7d6ab": {
+      "importer": "texture",
+      "uuid": "5cd42c25-9b0a-42f5-a31a-2373fa3bdf81@7d6ab",
+      "displayName": "",
+      "id": "7d6ab",
+      "name": "base_color_texture.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": true,
+        "imageUuidOrDatabaseUri": "5cd42c25-9b0a-42f5-a31a-2373fa3bdf81@48b02"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5189c": {
+      "importer": "texture",
+      "uuid": "5cd42c25-9b0a-42f5-a31a-2373fa3bdf81@5189c",
+      "displayName": "",
+      "id": "5189c",
+      "name": "file6.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/Art/Character/Character/Mesh/Character_SuperMarket/character_5.png"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "36c77": {
+      "importer": "texture",
+      "uuid": "5cd42c25-9b0a-42f5-a31a-2373fa3bdf81@36c77",
+      "displayName": "",
+      "id": "36c77",
+      "name": "base_color_texture1.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "linear",
+        "magfilter": "linear",
+        "mipfilter": "none",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/Art/Character/Character/Mesh/Character_SuperMarket/giohang.png"
+      },
+      "ver": "1.0.21",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b4d2d": {
+      "importer": "gltf-material",
+      "uuid": "5cd42c25-9b0a-42f5-a31a-2373fa3bdf81@b4d2d",
+      "displayName": "",
+      "id": "b4d2d",
+      "name": "Eyes_1.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7a3ca": {
+      "importer": "gltf-material",
+      "uuid": "5cd42c25-9b0a-42f5-a31a-2373fa3bdf81@7a3ca",
+      "displayName": "",
+      "id": "7a3ca",
+      "name": "lambert2.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "743bf": {
+      "importer": "gltf-material",
+      "uuid": "5cd42c25-9b0a-42f5-a31a-2373fa3bdf81@743bf",
+      "displayName": "",
+      "id": "743bf",
+      "name": "gio.material",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e26e2": {
+      "importer": "gltf-scene",
+      "uuid": "5cd42c25-9b0a-42f5-a31a-2373fa3bdf81@e26e2",
+      "displayName": "",
+      "id": "e26e2",
+      "name": "Char_11.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "base_color_texture",
+        "uri": "5cd42c25-9b0a-42f5-a31a-2373fa3bdf81@48b02"
+      },
+      {
+        "name": "file6",
+        "uri": "db://assets/Art/Character/Character/Mesh/Character_SuperMarket/character_5.png"
+      },
+      {
+        "name": "base_color_texture1",
+        "uri": "db://assets/Art/Character/Character/Mesh/Character_SuperMarket/giohang.png"
+      }
+    ],
+    "legacyFbxImporter": false,
+    "animationImportSettings": [
+      {
+        "name": "Take 001",
+        "duration": 6.25,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Take 001",
+            "from": 0,
+            "to": 6.25,
+            "wrapMode": 2
+          }
+        ]
+      },
+      {
+        "name": "Payment_CardStart",
+        "duration": 1.125,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Payment_CardStart",
+            "from": 0,
+            "to": 1.125,
+            "wrapMode": 2
+          }
+        ]
+      },
+      {
+        "name": "Payment_CardIdle",
+        "duration": 3.3333332538604736,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Payment_CardIdle",
+            "from": 0,
+            "to": 3.3333332538604736,
+            "wrapMode": 2
+          }
+        ]
+      },
+      {
+        "name": "Payment_CardBack",
+        "duration": 1.2916666269302368,
+        "fps": 30,
+        "splits": [
+          {
+            "name": "Payment_CardBack",
+            "from": 0,
+            "to": 1.2916666269302368,
+            "wrapMode": 2
+          }
+        ]
+      }
+    ],
+    "redirect": "5cd42c25-9b0a-42f5-a31a-2373fa3bdf81@e26e2",
+    "assetFinder": {
+      "meshes": [
+        "5cd42c25-9b0a-42f5-a31a-2373fa3bdf81@f4344",
+        "5cd42c25-9b0a-42f5-a31a-2373fa3bdf81@66aec"
+      ],
+      "skeletons": [
+        "5cd42c25-9b0a-42f5-a31a-2373fa3bdf81@438fe"
+      ],
+      "textures": [
+        "5cd42c25-9b0a-42f5-a31a-2373fa3bdf81@7d6ab",
+        "5cd42c25-9b0a-42f5-a31a-2373fa3bdf81@5189c",
+        "5cd42c25-9b0a-42f5-a31a-2373fa3bdf81@36c77"
+      ],
+      "materials": [
+        "5cd42c25-9b0a-42f5-a31a-2373fa3bdf81@b4d2d",
+        "5cd42c25-9b0a-42f5-a31a-2373fa3bdf81@7a3ca",
+        "5cd42c25-9b0a-42f5-a31a-2373fa3bdf81@743bf"
+      ],
+      "scenes": [
+        "5cd42c25-9b0a-42f5-a31a-2373fa3bdf81@e26e2"
+      ]
+    }
+  }
+}

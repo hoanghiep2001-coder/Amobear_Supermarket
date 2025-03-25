@@ -1,0 +1,58 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "9a5045e7-f78f-4a81-b297-d1f56d6160f1",
+  "files": [],
+  "subMetas": {
+    "d4457": {
+      "importer": "gltf-mesh",
+      "uuid": "9a5045e7-f78f-4a81-b297-d1f56d6160f1@d4457",
+      "displayName": "",
+      "id": "d4457",
+      "name": "Shelf_1.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d8eba": {
+      "importer": "gltf-scene",
+      "uuid": "9a5045e7-f78f-4a81-b297-d1f56d6160f1@d8eba",
+      "displayName": "",
+      "id": "d8eba",
+      "name": "Shelf_1.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "redirect": "9a5045e7-f78f-4a81-b297-d1f56d6160f1@d8eba",
+    "assetFinder": {
+      "meshes": [
+        "9a5045e7-f78f-4a81-b297-d1f56d6160f1@d4457"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "9a5045e7-f78f-4a81-b297-d1f56d6160f1@d8eba"
+      ]
+    }
+  }
+}

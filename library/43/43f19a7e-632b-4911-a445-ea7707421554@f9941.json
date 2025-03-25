@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "coin50",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 88,
+      "height": 88
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 88,
+      "height": 88
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "43f19a7e-632b-4911-a445-ea7707421554@6c48a",
+    "packable": true
+  }
+}

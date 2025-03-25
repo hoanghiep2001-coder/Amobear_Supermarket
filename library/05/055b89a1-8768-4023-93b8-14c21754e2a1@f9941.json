@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "box_white",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 60,
+      "height": 60
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 60,
+      "height": 60
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "055b89a1-8768-4023-93b8-14c21754e2a1@6c48a",
+    "packable": true
+  }
+}

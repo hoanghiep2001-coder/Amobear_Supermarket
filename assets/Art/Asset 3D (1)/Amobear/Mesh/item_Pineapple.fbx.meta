@@ -1,0 +1,58 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "0c2e2b1e-245c-40a9-90a1-42dbe37be01b",
+  "files": [],
+  "subMetas": {
+    "59fd5": {
+      "importer": "gltf-mesh",
+      "uuid": "0c2e2b1e-245c-40a9-90a1-42dbe37be01b@59fd5",
+      "displayName": "",
+      "id": "59fd5",
+      "name": "item_Pineapple_LOD0.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5ad3c": {
+      "importer": "gltf-scene",
+      "uuid": "0c2e2b1e-245c-40a9-90a1-42dbe37be01b@5ad3c",
+      "displayName": "",
+      "id": "5ad3c",
+      "name": "item_Pineapple.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "redirect": "0c2e2b1e-245c-40a9-90a1-42dbe37be01b@5ad3c",
+    "assetFinder": {
+      "meshes": [
+        "0c2e2b1e-245c-40a9-90a1-42dbe37be01b@59fd5"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "0c2e2b1e-245c-40a9-90a1-42dbe37be01b@5ad3c"
+      ]
+    }
+  }
+}

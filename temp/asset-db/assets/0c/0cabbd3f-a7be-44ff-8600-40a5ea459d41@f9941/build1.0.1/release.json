@@ -1,0 +1,53 @@
+[
+    1,
+    [
+        "0cq70/p75E/4YAQKXqRZ1B@6c48a"
+    ],
+    [
+        "_textureSource"
+    ],
+    [
+        "cc.SpriteFrame"
+    ],
+    0,
+    [
+        {
+            "name": "LETSCLEANUPTHESTORE",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 807,
+                "height": 202
+            },
+            "offset": {
+                "x": 0,
+                "y": 0
+            },
+            "originalSize": {
+                "width": 807,
+                "height": 202
+            },
+            "rotated": false,
+            "capInsets": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "packable": true
+        }
+    ],
+    [
+        0
+    ],
+    0,
+    [
+        0
+    ],
+    [
+        0
+    ],
+    [
+        0
+    ]
+]

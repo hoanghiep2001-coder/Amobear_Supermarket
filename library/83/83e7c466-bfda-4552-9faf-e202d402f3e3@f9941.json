@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Hand_2",
+    "atlas": "",
+    "rect": {
+      "x": 70,
+      "y": 61,
+      "width": 228,
+      "height": 229
+    },
+    "offset": {
+      "x": 0.5,
+      "y": 7
+    },
+    "originalSize": {
+      "width": 367,
+      "height": 365
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "83e7c466-bfda-4552-9faf-e202d402f3e3@6c48a",
+    "packable": true
+  }
+}

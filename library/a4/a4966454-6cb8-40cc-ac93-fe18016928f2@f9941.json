@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dol_20",
+    "atlas": "",
+    "rect": {
+      "x": 1,
+      "y": 1,
+      "width": 277,
+      "height": 135
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 279,
+      "height": 137
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "a4966454-6cb8-40cc-ac93-fe18016928f2@6c48a",
+    "packable": true
+  }
+}

@@ -1,0 +1,922 @@
+{
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 11559,
+      "max": [
+        1.8197994232177734,
+        7.367950439453125,
+        2.5927515029907227
+      ],
+      "min": [
+        -38.347328186035156,
+        -1.024332880973816,
+        -14.899286270141602
+      ],
+      "name": "Cube.098_Material0/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 11559,
+      "name": "Cube.098_Material0/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 11559,
+      "name": "Cube.098_Material0/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5125,
+      "count": 17178,
+      "name": "Cube.098_Material0/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 8,
+      "max": [
+        -5.019706726074219,
+        2.4052295684814453,
+        1.72605562210083
+      ],
+      "min": [
+        -36.209754943847656,
+        2.4052295684814453,
+        -14.242464065551758
+      ],
+      "name": "Cube.098_Material0/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 8,
+      "name": "Cube.098_Material0/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 8,
+      "name": "Cube.098_Material0/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5125,
+      "count": 12,
+      "name": "Cube.098_Material0/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 16,
+      "max": [
+        1.5071468353271484,
+        5.748847007751465,
+        0.8560030460357666
+      ],
+      "min": [
+        -13.987590789794922,
+        -0.9999991059303284,
+        -14.206037521362305
+      ],
+      "name": "Cube.098_Material0/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 4,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 16,
+      "name": "Cube.098_Material0/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 4,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 16,
+      "name": "Cube.098_Material0/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5125,
+      "count": 30,
+      "name": "Cube.098_Material0/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 6,
+      "componentType": 5126,
+      "count": 176,
+      "max": [
+        -17.319211959838867,
+        2.285229206085205,
+        1.7790565490722656
+      ],
+      "min": [
+        -36.30018615722656,
+        -0.8799998760223389,
+        -14.10297966003418
+      ],
+      "name": "Cube.098_Material0/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 6,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 176,
+      "name": "Cube.098_Material0/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 6,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 176,
+      "name": "Cube.098_Material0/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 7,
+      "componentType": 5125,
+      "count": 264,
+      "name": "Cube.098_Material0/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 8,
+      "componentType": 5126,
+      "count": 32,
+      "max": [
+        3.431751251220703,
+        0.4400940537452698,
+        -0.15994231402873993
+      ],
+      "min": [
+        3.3836705684661865,
+        -0.08203703165054321,
+        -0.20802290737628937
+      ],
+      "name": "Cube.154_Material0/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 8,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 32,
+      "name": "Cube.154_Material0/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 8,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 32,
+      "name": "Cube.154_Material0/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 9,
+      "componentType": 5125,
+      "count": 84,
+      "name": "Cube.154_Material0/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 10,
+      "componentType": 5126,
+      "count": 132,
+      "max": [
+        4.913989067077637,
+        1.7468997240066528,
+        0.03141409158706665
+      ],
+      "min": [
+        3.2670037746429443,
+        -0.8672768473625183,
+        -0.18439041078090668
+      ],
+      "name": "Cube.154_Material0/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 10,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 132,
+      "name": "Cube.154_Material0/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 10,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 132,
+      "name": "Cube.154_Material0/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 11,
+      "componentType": 5125,
+      "count": 306,
+      "name": "Cube.154_Material0/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 12,
+      "componentType": 5126,
+      "count": 216,
+      "max": [
+        3.1532557010650635,
+        0.29123926162719727,
+        1.0875710248947144
+      ],
+      "min": [
+        2.856920003890991,
+        -0.23089182376861572,
+        -0.49237334728240967
+      ],
+      "name": "Cube.005_Material0/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 12,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 216,
+      "name": "Cube.005_Material0/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 12,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 216,
+      "name": "Cube.005_Material0/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 13,
+      "componentType": 5125,
+      "count": 360,
+      "name": "Cube.005_Material0/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 14,
+      "componentType": 5126,
+      "count": 132,
+      "max": [
+        3.1296231746673584,
+        1.8513813018798828,
+        1.02036452293396
+      ],
+      "min": [
+        2.913818836212158,
+        -0.8672768473625183,
+        -0.4055023193359375
+      ],
+      "name": "Cube.005_Material0/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 14,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 132,
+      "name": "Cube.005_Material0/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 14,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 132,
+      "name": "Cube.005_Material0/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 15,
+      "componentType": 5125,
+      "count": 306,
+      "name": "Cube.005_Material0/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 16,
+      "componentType": 5126,
+      "count": 40,
+      "max": [
+        7.190094470977783,
+        3.4052340984344482,
+        2.6097099781036377
+      ],
+      "min": [
+        7.057443141937256,
+        -1.0335111255699303e-06,
+        -13.215173721313477
+      ],
+      "name": "Plane.018_Material0/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 16,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 40,
+      "name": "Plane.018_Material0/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 16,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 40,
+      "name": "Plane.018_Material0/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 17,
+      "componentType": 5125,
+      "count": 60,
+      "name": "Plane.018_Material0/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 18,
+      "componentType": 5126,
+      "count": 12,
+      "max": [
+        7.190094470977783,
+        3.4052340984344482,
+        2.6097099781036377
+      ],
+      "min": [
+        7.190094470977783,
+        -1.0335111255699303e-06,
+        -13.215173721313477
+      ],
+      "name": "Plane.018_Material0/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 18,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 12,
+      "name": "Plane.018_Material0/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 18,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 12,
+      "name": "Plane.018_Material0/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 19,
+      "componentType": 5125,
+      "count": 18,
+      "name": "Plane.018_Material0/INDICES",
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 20,
+      "componentType": 5126,
+      "count": 8,
+      "max": [
+        -5.019708633422852,
+        -0.9999939203262329,
+        1.7790565490722656
+      ],
+      "min": [
+        -36.224754333496094,
+        -1.0000020265579224,
+        -14.206035614013672
+      ],
+      "name": "Cube.001_Material4/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 20,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 8,
+      "name": "Cube.001_Material4/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 20,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 8,
+      "name": "Cube.001_Material4/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 21,
+      "componentType": 5125,
+      "count": 12,
+      "name": "Cube.001_Material4/INDICES",
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "copyright": "Copyright (c) 2018-2020 Chukong Technologies Inc.",
+    "generator": "FBX-glTF-conv",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 369888,
+      "byteStride": 32,
+      "name": "Cube.098_Material0",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 68712,
+      "byteOffset": 369888
+    },
+    {
+      "buffer": 0,
+      "byteLength": 256,
+      "byteOffset": 438600,
+      "byteStride": 32,
+      "name": "Cube.098_Material0",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 48,
+      "byteOffset": 438856
+    },
+    {
+      "buffer": 0,
+      "byteLength": 512,
+      "byteOffset": 438904,
+      "byteStride": 32,
+      "name": "Cube.098_Material0",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 120,
+      "byteOffset": 439416
+    },
+    {
+      "buffer": 0,
+      "byteLength": 5632,
+      "byteOffset": 439536,
+      "byteStride": 32,
+      "name": "Cube.098_Material0",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1056,
+      "byteOffset": 445168
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1024,
+      "byteOffset": 446224,
+      "byteStride": 32,
+      "name": "Cube.154_Material0",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 336,
+      "byteOffset": 447248
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4224,
+      "byteOffset": 447584,
+      "byteStride": 32,
+      "name": "Cube.154_Material0",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1224,
+      "byteOffset": 451808
+    },
+    {
+      "buffer": 0,
+      "byteLength": 6912,
+      "byteOffset": 453032,
+      "byteStride": 32,
+      "name": "Cube.005_Material0",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1440,
+      "byteOffset": 459944
+    },
+    {
+      "buffer": 0,
+      "byteLength": 4224,
+      "byteOffset": 461384,
+      "byteStride": 32,
+      "name": "Cube.005_Material0",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1224,
+      "byteOffset": 465608
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1280,
+      "byteOffset": 466832,
+      "byteStride": 32,
+      "name": "Plane.018_Material0",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 240,
+      "byteOffset": 468112
+    },
+    {
+      "buffer": 0,
+      "byteLength": 384,
+      "byteOffset": 468352,
+      "byteStride": 32,
+      "name": "Plane.018_Material0",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 72,
+      "byteOffset": 468736
+    },
+    {
+      "buffer": 0,
+      "byteLength": 256,
+      "byteOffset": 468808,
+      "byteStride": 32,
+      "name": "Cube.001_Material4",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 48,
+      "byteOffset": 469064
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 469112,
+      "uri": "out.bin"
+    }
+  ],
+  "extras": {
+    "FBX-glTF-conv": {
+      "animationFrameRate": 60.0
+    }
+  },
+  "images": [
+    {
+      "extras": {
+        "FBX-glTF-conv": {
+          "fileName": "D:\\UnityProject\\market-simulator\\market-simulator\\Assets\\Games\\Models\\Texture\\Color.psd",
+          "relativeFileName": "D:\\UnityProject\\market-simulator\\market-simulator\\Assets\\Games\\Models\\Texture\\Color.psd"
+        }
+      },
+      "name": "base_color_texture",
+      "uri": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mP8/5+hHgAHggJ/PchI7wAAAABJRU5ErkJggg=="
+    },
+    {
+      "extras": {
+        "FBX-glTF-conv": {
+          "fileName": "D:\\UnityProject\\market-simulator\\market-simulator\\Assets\\Games\\Models\\Texture\\Celling.psd",
+          "relativeFileName": "D:\\UnityProject\\market-simulator\\market-simulator\\Assets\\Games\\Models\\Texture\\Celling.psd"
+        }
+      },
+      "name": "base_color_texture",
+      "uri": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mP8/5+hHgAHggJ/PchI7wAAAABJRU5ErkJggg=="
+    },
+    {
+      "extras": {
+        "FBX-glTF-conv": {
+          "fileName": "D:\\UnityProject\\market-simulator\\market-simulator\\Assets\\Games\\Models\\Texture\\Obj.psd",
+          "relativeFileName": "D:\\UnityProject\\market-simulator\\market-simulator\\Assets\\Games\\Models\\Texture\\Obj.psd"
+        }
+      },
+      "name": "base_color_texture",
+      "uri": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mP8/5+hHgAHggJ/PchI7wAAAABJRU5ErkJggg=="
+    },
+    {
+      "extras": {
+        "FBX-glTF-conv": {
+          "fileName": "U:\\2024\\5. Super maket\\Texture\\Glass_1.psd",
+          "relativeFileName": "U:\\2024\\5. Super maket\\Texture\\Glass_1.psd"
+        }
+      },
+      "name": "base_color_texture",
+      "uri": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mP8/5+hHgAHggJ/PchI7wAAAABJRU5ErkJggg=="
+    },
+    {
+      "extras": {
+        "FBX-glTF-conv": {
+          "fileName": "D:\\UnityProject\\market-simulator\\market-simulator\\Assets\\Games\\Models\\Texture\\Floor_4.psd",
+          "relativeFileName": "D:\\UnityProject\\market-simulator\\market-simulator\\Assets\\Games\\Models\\Texture\\Floor_4.psd"
+        }
+      },
+      "name": "base_color_texture",
+      "uri": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAYAAAAfFcSJAAAADUlEQVR42mP8/5+hHgAHggJ/PchI7wAAAABJRU5ErkJggg=="
+    }
+  ],
+  "materials": [
+    {
+      "name": "Color",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicFactor": 0.4000000059604645
+      }
+    },
+    {
+      "name": "Celling",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 1
+        },
+        "metallicFactor": 0.4000000059604645,
+        "roughnessFactor": 0.27216553688049316
+      }
+    },
+    {
+      "name": "Obj",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 2
+        },
+        "metallicFactor": 0.4000000059604645,
+        "roughnessFactor": 0.27216553688049316
+      }
+    },
+    {
+      "name": "Glass_1",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 3
+        },
+        "metallicFactor": 0.4000000059604645,
+        "roughnessFactor": 0.27216553688049316
+      }
+    },
+    {
+      "name": "Floor_4",
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 4
+        },
+        "metallicFactor": 0.4000000059604645,
+        "roughnessFactor": 0.27216553688049316
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Cube.098_Material0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3,
+          "material": 0
+        },
+        {
+          "attributes": {
+            "NORMAL": 5,
+            "POSITION": 4,
+            "TEXCOORD_0": 6
+          },
+          "indices": 7,
+          "material": 1
+        },
+        {
+          "attributes": {
+            "NORMAL": 9,
+            "POSITION": 8,
+            "TEXCOORD_0": 10
+          },
+          "indices": 11,
+          "material": 2
+        },
+        {
+          "attributes": {
+            "NORMAL": 13,
+            "POSITION": 12,
+            "TEXCOORD_0": 14
+          },
+          "indices": 15,
+          "material": 3
+        }
+      ]
+    },
+    {
+      "name": "Cube.154_Material0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 17,
+            "POSITION": 16,
+            "TEXCOORD_0": 18
+          },
+          "indices": 19,
+          "material": 0
+        },
+        {
+          "attributes": {
+            "NORMAL": 21,
+            "POSITION": 20,
+            "TEXCOORD_0": 22
+          },
+          "indices": 23,
+          "material": 2
+        }
+      ]
+    },
+    {
+      "name": "Cube.005_Material0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 25,
+            "POSITION": 24,
+            "TEXCOORD_0": 26
+          },
+          "indices": 27,
+          "material": 0
+        },
+        {
+          "attributes": {
+            "NORMAL": 29,
+            "POSITION": 28,
+            "TEXCOORD_0": 30
+          },
+          "indices": 31,
+          "material": 2
+        }
+      ]
+    },
+    {
+      "name": "Plane.018_Material0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 33,
+            "POSITION": 32,
+            "TEXCOORD_0": 34
+          },
+          "indices": 35,
+          "material": 0
+        },
+        {
+          "attributes": {
+            "NORMAL": 37,
+            "POSITION": 36,
+            "TEXCOORD_0": 38
+          },
+          "indices": 39,
+          "material": 2
+        }
+      ]
+    },
+    {
+      "name": "Cube.001_Material4",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 41,
+            "POSITION": 40,
+            "TEXCOORD_0": 42
+          },
+          "indices": 43,
+          "material": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "mesh": 0,
+      "name": "Cube.098",
+      "translation": [
+        19.05537223815918,
+        1.0000001192092896,
+        1.9777002334594727
+      ]
+    },
+    {
+      "mesh": 1,
+      "name": "Cube.154",
+      "translation": [
+        4.115098476409912,
+        0.8772803544998169,
+        2.9506561756134033
+      ]
+    },
+    {
+      "mesh": 2,
+      "name": "Cube.005",
+      "translation": [
+        2.0543370246887207,
+        0.8772803544998169,
+        -1.4738047122955322
+      ]
+    },
+    {
+      "mesh": 3,
+      "name": "Plane.018",
+      "translation": [
+        -1.984423279762268,
+        0.0,
+        0.9530915021896362
+      ]
+    },
+    {
+      "mesh": 4,
+      "name": "Cube.001",
+      "translation": [
+        19.05537223815918,
+        1.0000001192092896,
+        1.9777002334594727
+      ]
+    }
+  ],
+  "samplers": [
+    {}
+  ],
+  "scenes": [
+    {
+      "name": "Scene",
+      "nodes": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "name": "base_color_texture",
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "name": "base_color_texture",
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "name": "base_color_texture",
+      "sampler": 0,
+      "source": 2
+    },
+    {
+      "name": "base_color_texture",
+      "sampler": 0,
+      "source": 3
+    },
+    {
+      "name": "base_color_texture",
+      "sampler": 0,
+      "source": 4
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+[
+  {
+    "level": 0,
+    "message": "Frame rate: 24"
+  },
+  {
+    "level": 0,
+    "message": "Local time: [0.000000, 6.250000]"
+  },
+  {
+    "level": 0,
+    "message": "Reference time: [0.000000, 6.250000]"
+  },
+  {
+    "level": 0,
+    "message": "Frame rate: 24"
+  },
+  {
+    "level": 0,
+    "message": "Take Take 001: 6.25s"
+  },
+  {
+    "level": 0,
+    "message": "Local time: [0.000000, 1.125000]"
+  },
+  {
+    "level": 0,
+    "message": "Reference time: [0.000000, 0.900000]"
+  },
+  {
+    "level": 0,
+    "message": "Frame rate: 24"
+  },
+  {
+    "level": 0,
+    "message": "Take Payment_CardStart: 1.125s"
+  },
+  {
+    "level": 0,
+    "message": "Local time: [0.000000, 3.333333]"
+  },
+  {
+    "level": 0,
+    "message": "Reference time: [0.000000, 2.666667]"
+  },
+  {
+    "level": 0,
+    "message": "Frame rate: 24"
+  },
+  {
+    "level": 0,
+    "message": "Take Payment_CardIdle: 3.3333333333333335s"
+  },
+  {
+    "level": 0,
+    "message": "Local time: [0.000000, 1.291667]"
+  },
+  {
+    "level": 0,
+    "message": "Reference time: [0.000000, 2.666667]"
+  },
+  {
+    "level": 0,
+    "message": "Frame rate: 24"
+  },
+  {
+    "level": 0,
+    "message": "Take Payment_CardBack: 1.2916666666666667s"
+  }
+]

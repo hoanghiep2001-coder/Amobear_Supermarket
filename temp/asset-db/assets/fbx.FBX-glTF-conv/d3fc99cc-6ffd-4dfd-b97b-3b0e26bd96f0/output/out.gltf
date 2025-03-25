@@ -1,0 +1,109 @@
+{
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 6931,
+      "max": [
+        0.01412334106862545,
+        0.0026644663885235786,
+        0.02082720212638378
+      ],
+      "min": [
+        -0.01412334106862545,
+        -0.003487521084025502,
+        -2.912971530655284e-10
+      ],
+      "name": "Shelf_Fruit_2/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 6931,
+      "name": "Shelf_Fruit_2/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 6931,
+      "name": "Shelf_Fruit_2/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5125,
+      "count": 9702,
+      "name": "Shelf_Fruit_2/INDICES",
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "copyright": "Copyright (c) 2018-2020 Chukong Technologies Inc.",
+    "generator": "FBX-glTF-conv",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 221792,
+      "byteStride": 32,
+      "name": "Shelf_Fruit_2",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 38808,
+      "byteOffset": 221792
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 260600,
+      "uri": "out.bin"
+    }
+  ],
+  "extras": {
+    "FBX-glTF-conv": {
+      "animationFrameRate": 24.0
+    }
+  },
+  "meshes": [
+    {
+      "name": "Shelf_Fruit_2",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "mesh": 0,
+      "name": "Shelf_Fruit_2",
+      "rotation": [
+        4.329780301713277e-17,
+        0.7071067690849304,
+        0.7071067690849304,
+        4.329780301713277e-17
+      ]
+    }
+  ],
+  "scenes": [
+    {
+      "name": "Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

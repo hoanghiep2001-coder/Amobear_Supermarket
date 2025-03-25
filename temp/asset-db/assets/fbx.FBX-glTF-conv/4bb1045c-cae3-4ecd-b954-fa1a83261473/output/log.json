@@ -1,0 +1,54 @@
+[
+  {
+    "level": 0,
+    "message": "Frame rate: 60"
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "Right",
+      "type": "Rrs"
+    }
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "Left",
+      "type": "Rrs"
+    }
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "Front",
+      "type": "Rrs"
+    }
+  },
+  {
+    "level": 2,
+    "message": {
+      "code": "unsupported_inherit_type",
+      "node": "Back",
+      "type": "Rrs"
+    }
+  },
+  {
+    "level": 0,
+    "message": "Local time: [0.000000, 0.666667]"
+  },
+  {
+    "level": 0,
+    "message": "Reference time: [0.000000, 0.666667]"
+  },
+  {
+    "level": 0,
+    "message": "Frame rate: 60"
+  },
+  {
+    "level": 0,
+    "message": "Take Take 001: 0.6666666666666666s"
+  }
+]

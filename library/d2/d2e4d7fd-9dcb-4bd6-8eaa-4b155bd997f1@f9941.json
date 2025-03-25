@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "facebook-angry-emoji-emoticon-logo-4EC357E553-seeklogo.com",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 300,
+      "height": 300
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 300,
+      "height": 300
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "d2e4d7fd-9dcb-4bd6-8eaa-4b155bd997f1@6c48a",
+    "packable": true
+  }
+}

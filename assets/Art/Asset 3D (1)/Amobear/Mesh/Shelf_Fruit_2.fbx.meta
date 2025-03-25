@@ -1,0 +1,58 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "d3fc99cc-6ffd-4dfd-b97b-3b0e26bd96f0",
+  "files": [],
+  "subMetas": {
+    "75313": {
+      "importer": "gltf-scene",
+      "uuid": "d3fc99cc-6ffd-4dfd-b97b-3b0e26bd96f0@75313",
+      "displayName": "",
+      "id": "75313",
+      "name": "Shelf_Fruit_2.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8cff9": {
+      "importer": "gltf-mesh",
+      "uuid": "d3fc99cc-6ffd-4dfd-b97b-3b0e26bd96f0@8cff9",
+      "displayName": "",
+      "id": "8cff9",
+      "name": "Shelf_Fruit_2.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "redirect": "d3fc99cc-6ffd-4dfd-b97b-3b0e26bd96f0@75313",
+    "assetFinder": {
+      "meshes": [
+        "d3fc99cc-6ffd-4dfd-b97b-3b0e26bd96f0@8cff9"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "d3fc99cc-6ffd-4dfd-b97b-3b0e26bd96f0@75313"
+      ]
+    }
+  }
+}

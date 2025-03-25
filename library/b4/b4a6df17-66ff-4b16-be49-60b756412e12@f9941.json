@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dol_5",
+    "atlas": "",
+    "rect": {
+      "x": 1,
+      "y": 1,
+      "width": 277,
+      "height": 135
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 279,
+      "height": 137
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "b4a6df17-66ff-4b16-be49-60b756412e12@6c48a",
+    "packable": true
+  }
+}

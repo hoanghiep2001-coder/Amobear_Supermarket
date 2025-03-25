@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "IconButton1",
+    "atlas": "",
+    "rect": {
+      "x": 8,
+      "y": 8,
+      "width": 540,
+      "height": 210
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 556,
+      "height": 226
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "387af980-be89-42da-b78b-7c41efeef505@6c48a",
+    "packable": true
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 2735,
+      "max": [
+        0.003884604899212718,
+        0.016714079305529594,
+        0.017180874943733215
+      ],
+      "min": [
+        -0.005932724568992853,
+        -0.012805484235286713,
+        0.0
+      ],
+      "name": "Table.004/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 2735,
+      "name": "Table.004/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 2735,
+      "name": "Table.004/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5125,
+      "count": 5244,
+      "name": "Table.004/INDICES",
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "copyright": "Copyright (c) 2018-2020 Chukong Technologies Inc.",
+    "generator": "FBX-glTF-conv",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 87520,
+      "byteStride": 32,
+      "name": "Table.004",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 20976,
+      "byteOffset": 87520
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 108496,
+      "uri": "out.bin"
+    }
+  ],
+  "extras": {
+    "FBX-glTF-conv": {
+      "animationFrameRate": 24.0
+    }
+  },
+  "meshes": [
+    {
+      "name": "Table.004",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "mesh": 0,
+      "name": "Table.004",
+      "rotation": [
+        4.329780301713277e-17,
+        0.7071067690849304,
+        0.7071067690849304,
+        4.329780301713277e-17
+      ]
+    }
+  ],
+  "scenes": [
+    {
+      "name": "Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

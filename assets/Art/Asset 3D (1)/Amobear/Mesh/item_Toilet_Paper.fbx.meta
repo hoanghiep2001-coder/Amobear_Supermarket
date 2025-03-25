@@ -1,0 +1,58 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "658ec806-1ff3-4f62-80d0-09d637e18cdc",
+  "files": [],
+  "subMetas": {
+    "29d3e": {
+      "importer": "gltf-mesh",
+      "uuid": "658ec806-1ff3-4f62-80d0-09d637e18cdc@29d3e",
+      "displayName": "",
+      "id": "29d3e",
+      "name": "item_Toilet_Paper_LOD0.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c7d81": {
+      "importer": "gltf-scene",
+      "uuid": "658ec806-1ff3-4f62-80d0-09d637e18cdc@c7d81",
+      "displayName": "",
+      "id": "c7d81",
+      "name": "item_Toilet_Paper.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "redirect": "658ec806-1ff3-4f62-80d0-09d637e18cdc@c7d81",
+    "assetFinder": {
+      "meshes": [
+        "658ec806-1ff3-4f62-80d0-09d637e18cdc@29d3e"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "658ec806-1ff3-4f62-80d0-09d637e18cdc@c7d81"
+      ]
+    }
+  }
+}

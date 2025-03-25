@@ -1,0 +1,231 @@
+[
+    1,
+    0,
+    0,
+    [
+        [
+            "cc.Mesh",
+            [
+                "_native",
+                "_hash",
+                "_struct"
+            ],
+            1,
+            11
+        ]
+    ],
+    [
+        [
+            0,
+            0,
+            1,
+            2,
+            3
+        ]
+    ],
+    [
+        [
+            0,
+            ".bin",
+            1794424514,
+            [
+                {
+                    "primitives": [
+                        {
+                            "primitiveMode": 7,
+                            "vertexBundelIndices": [
+                                0
+                            ],
+                            "indexView": {
+                                "offset": 554832,
+                                "length": 68712,
+                                "count": 17178,
+                                "stride": 4
+                            }
+                        },
+                        {
+                            "primitiveMode": 7,
+                            "vertexBundelIndices": [
+                                1
+                            ],
+                            "indexView": {
+                                "offset": 623928,
+                                "length": 48,
+                                "count": 12,
+                                "stride": 4
+                            }
+                        },
+                        {
+                            "primitiveMode": 7,
+                            "vertexBundelIndices": [
+                                2
+                            ],
+                            "indexView": {
+                                "offset": 624744,
+                                "length": 120,
+                                "count": 30,
+                                "stride": 4
+                            }
+                        },
+                        {
+                            "primitiveMode": 7,
+                            "vertexBundelIndices": [
+                                3
+                            ],
+                            "indexView": {
+                                "offset": 633312,
+                                "length": 1056,
+                                "count": 264,
+                                "stride": 4
+                            }
+                        }
+                    ],
+                    "vertexBundles": [
+                        {
+                            "view": {
+                                "offset": 0,
+                                "length": 554832,
+                                "count": 11559,
+                                "stride": 48
+                            },
+                            "attributes": [
+                                {
+                                    "name": "a_position",
+                                    "format": 32,
+                                    "isNormalized": false
+                                },
+                                {
+                                    "name": "a_normal",
+                                    "format": 32,
+                                    "isNormalized": false
+                                },
+                                {
+                                    "name": "a_texCoord",
+                                    "format": 21,
+                                    "isNormalized": false
+                                },
+                                {
+                                    "name": "a_tangent",
+                                    "format": 44,
+                                    "isNormalized": false
+                                }
+                            ]
+                        },
+                        {
+                            "view": {
+                                "offset": 623544,
+                                "length": 384,
+                                "count": 8,
+                                "stride": 48
+                            },
+                            "attributes": [
+                                {
+                                    "name": "a_position",
+                                    "format": 32,
+                                    "isNormalized": false
+                                },
+                                {
+                                    "name": "a_normal",
+                                    "format": 32,
+                                    "isNormalized": false
+                                },
+                                {
+                                    "name": "a_texCoord",
+                                    "format": 21,
+                                    "isNormalized": false
+                                },
+                                {
+                                    "name": "a_tangent",
+                                    "format": 44,
+                                    "isNormalized": false
+                                }
+                            ]
+                        },
+                        {
+                            "view": {
+                                "offset": 623976,
+                                "length": 768,
+                                "count": 16,
+                                "stride": 48
+                            },
+                            "attributes": [
+                                {
+                                    "name": "a_position",
+                                    "format": 32,
+                                    "isNormalized": false
+                                },
+                                {
+                                    "name": "a_normal",
+                                    "format": 32,
+                                    "isNormalized": false
+                                },
+                                {
+                                    "name": "a_texCoord",
+                                    "format": 21,
+                                    "isNormalized": false
+                                },
+                                {
+                                    "name": "a_tangent",
+                                    "format": 44,
+                                    "isNormalized": false
+                                }
+                            ]
+                        },
+                        {
+                            "view": {
+                                "offset": 624864,
+                                "length": 8448,
+                                "count": 176,
+                                "stride": 48
+                            },
+                            "attributes": [
+                                {
+                                    "name": "a_position",
+                                    "format": 32,
+                                    "isNormalized": false
+                                },
+                                {
+                                    "name": "a_normal",
+                                    "format": 32,
+                                    "isNormalized": false
+                                },
+                                {
+                                    "name": "a_texCoord",
+                                    "format": 21,
+                                    "isNormalized": false
+                                },
+                                {
+                                    "name": "a_tangent",
+                                    "format": 44,
+                                    "isNormalized": false
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "minPosition",
+                8,
+                [
+                    1,
+                    -38.347328186035156,
+                    -1.024332880973816,
+                    -14.899286270141602
+                ],
+                "maxPosition",
+                8,
+                [
+                    1,
+                    1.8197994232177734,
+                    7.367950439453125,
+                    2.5927515029907227
+                ]
+            ]
+        ],
+        -1
+    ],
+    0,
+    0,
+    [],
+    [],
+    []
+]

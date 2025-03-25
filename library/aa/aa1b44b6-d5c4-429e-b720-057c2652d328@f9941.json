@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "icon_next",
+    "atlas": "",
+    "rect": {
+      "x": 4,
+      "y": 11,
+      "width": 122,
+      "height": 107
+    },
+    "offset": {
+      "x": 1,
+      "y": -0.5
+    },
+    "originalSize": {
+      "width": 128,
+      "height": 128
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "aa1b44b6-d5c4-429e-b720-057c2652d328@6c48a",
+    "packable": true
+  }
+}

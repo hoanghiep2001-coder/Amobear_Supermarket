@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Layer 5",
+    "atlas": "",
+    "rect": {
+      "x": 1,
+      "y": 1,
+      "width": 277,
+      "height": 135
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 279,
+      "height": 137
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "cbe89ce1-c894-4909-8157-3651c554b900@6c48a",
+    "packable": true
+  }
+}

@@ -1,0 +1,53 @@
+[
+    1,
+    [
+        "ae2Py0qZBCnqxn1rmKQdll@6c48a"
+    ],
+    [
+        "_textureSource"
+    ],
+    [
+        "cc.SpriteFrame"
+    ],
+    0,
+    [
+        {
+            "name": "button back",
+            "rect": {
+                "x": 0,
+                "y": 0,
+                "width": 500,
+                "height": 200
+            },
+            "offset": {
+                "x": 0,
+                "y": 0
+            },
+            "originalSize": {
+                "width": 500,
+                "height": 200
+            },
+            "rotated": false,
+            "capInsets": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "packable": true
+        }
+    ],
+    [
+        0
+    ],
+    0,
+    [
+        0
+    ],
+    [
+        0
+    ],
+    [
+        0
+    ]
+]

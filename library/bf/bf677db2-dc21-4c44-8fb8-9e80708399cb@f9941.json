@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "coin_lv4",
+    "atlas": "",
+    "rect": {
+      "x": 1,
+      "y": 0,
+      "width": 263,
+      "height": 252
+    },
+    "offset": {
+      "x": 0,
+      "y": 0.5
+    },
+    "originalSize": {
+      "width": 265,
+      "height": 253
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "bf677db2-dc21-4c44-8fb8-9e80708399cb@6c48a",
+    "packable": true
+  }
+}

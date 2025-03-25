@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "dolar_lv3",
+    "atlas": "",
+    "rect": {
+      "x": 1,
+      "y": 0,
+      "width": 135,
+      "height": 121
+    },
+    "offset": {
+      "x": 0,
+      "y": 0.5
+    },
+    "originalSize": {
+      "width": 137,
+      "height": 122
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "ed433ced-f44f-44b0-a641-c86bfa5aa0e5@6c48a",
+    "packable": true
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "LOGO_game",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 715,
+      "height": 435
+    },
+    "offset": {
+      "x": 0,
+      "y": 1
+    },
+    "originalSize": {
+      "width": 715,
+      "height": 437
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "c15f5fbf-30bc-45f5-a70f-aa55fb77cf9b@6c48a",
+    "packable": true
+  }
+}

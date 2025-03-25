@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "tut_dashline_ellipse",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 341,
+      "height": 341
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 341,
+      "height": 341
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "9a5528e9-c757-407d-a034-dc53e97760a0@6c48a",
+    "packable": true
+  }
+}

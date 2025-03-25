@@ -1,0 +1,58 @@
+{
+  "ver": "2.1.10",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "d8f44326-4a2e-4472-af55-396a7de2f57e",
+  "files": [],
+  "subMetas": {
+    "10233": {
+      "importer": "gltf-mesh",
+      "uuid": "d8f44326-4a2e-4472-af55-396a7de2f57e@10233",
+      "displayName": "",
+      "id": "10233",
+      "name": "item_Apple.mesh",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.1.0",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "15821": {
+      "importer": "gltf-scene",
+      "uuid": "d8f44326-4a2e-4472-af55-396a7de2f57e@15821",
+      "displayName": "",
+      "id": "15821",
+      "name": "item_Apple.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.12",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "legacyFbxImporter": false,
+    "redirect": "d8f44326-4a2e-4472-af55-396a7de2f57e@15821",
+    "assetFinder": {
+      "meshes": [
+        "d8f44326-4a2e-4472-af55-396a7de2f57e@10233"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [],
+      "scenes": [
+        "d8f44326-4a2e-4472-af55-396a7de2f57e@15821"
+      ]
+    }
+  }
+}

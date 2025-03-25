@@ -1,0 +1,114 @@
+{
+  "accessors": [
+    {
+      "bufferView": 0,
+      "componentType": 5126,
+      "count": 482,
+      "max": [
+        0.0010883624199777842,
+        0.0029907990247011185,
+        0.0010890555568039417
+      ],
+      "min": [
+        -0.0012910760706290603,
+        2.8209437914483715e-06,
+        -0.0012571844272315502
+      ],
+      "name": "item_Pineapple_LOD0/POSITION",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 12,
+      "componentType": 5126,
+      "count": 482,
+      "name": "item_Pineapple_LOD0/NORMAL",
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 24,
+      "componentType": 5126,
+      "count": 482,
+      "name": "item_Pineapple_LOD0/TEXCOORD_0",
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5125,
+      "count": 1362,
+      "name": "item_Pineapple_LOD0/INDICES",
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "copyright": "Copyright (c) 2018-2020 Chukong Technologies Inc.",
+    "generator": "FBX-glTF-conv",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 15424,
+      "byteStride": 32,
+      "name": "item_Pineapple_LOD0",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 5448,
+      "byteOffset": 15424
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 20872,
+      "uri": "out.bin"
+    }
+  ],
+  "extras": {
+    "FBX-glTF-conv": {
+      "animationFrameRate": 24.0
+    }
+  },
+  "meshes": [
+    {
+      "name": "item_Pineapple_LOD0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TEXCOORD_0": 2
+          },
+          "indices": 3
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "mesh": 0,
+      "name": "item_Pineapple_LOD0",
+      "rotation": [
+        6.123234262925839e-17,
+        1.0,
+        -1.410649872468639e-07,
+        -8.637738977939674e-24
+      ],
+      "scale": [
+        1.0,
+        1.0000001192092896,
+        1.0000001192092896
+      ]
+    }
+  ],
+  "scenes": [
+    {
+      "name": "Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}
