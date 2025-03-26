@@ -57,11 +57,28 @@
     {
       "mainColor": {
         "__type__": "cc.Color",
-        "r": 255,
-        "g": 255,
-        "b": 255,
+        "r": 211,
+        "g": 211,
+        "b": 211,
         "a": 255
       },
+      "shadeColor1": {
+        "__type__": "cc.Color",
+        "r": 27,
+        "g": 27,
+        "b": 27,
+        "a": 255
+      },
+      "specular": {
+        "__type__": "cc.Color",
+        "r": 141,
+        "g": 141,
+        "b": 141,
+        "a": 76
+      },
+      "baseFeather": 1,
+      "shadeStep": 0.55,
+      "shadeFeather": 0.5,
       "mainTexture": {
         "__uuid__": "7adba0a4-b009-4d57-83bf-2415ceac872d@6c48a",
         "__expectedType__": "cc.Texture2D"

@@ -109,7 +109,6 @@ System.register(["__unresolved_0", "cc", "__unresolved_1", "__unresolved_2", "__
           //     return;
           // }
 
-          console.log("ahihi");
           this.getRaycastResult(event);
         }
 
@@ -120,7 +119,6 @@ System.register(["__unresolved_0", "cc", "__unresolved_1", "__unresolved_2", "__
           var mask = 0xffffffff;
           var maxDistance = 10000000;
           var queryTrigger = true;
-          console.log("ahihi");
 
           if (PhysicsSystem.instance.raycastClosest(ray, mask, maxDistance, queryTrigger)) {
             var raycastClosestResult = PhysicsSystem.instance.raycastClosestResult; // const hitPoint = raycastClosestResult.hitPoint
@@ -129,8 +127,6 @@ System.register(["__unresolved_0", "cc", "__unresolved_1", "__unresolved_2", "__
             var collider = raycastClosestResult.collider; // const distance = raycastClosestResult;   
 
             if (collider.node.name === "Watermelon_LOD0" || collider.node.name === "item_Flour" || collider.node.name === "item_Toilet_Paper_LOD0") {
-              console.log("ahihi");
-
               if ((_crd && GameInfo === void 0 ? (_reportPossibleCrUseOfGameInfo({
                 error: Error()
               }), GameInfo) : GameInfo).isToStore || (_crd && GameInfo === void 0 ? (_reportPossibleCrUseOfGameInfo({

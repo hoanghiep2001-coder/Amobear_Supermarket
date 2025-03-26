@@ -1,0 +1,82 @@
+[
+    1,
+    [
+        "82Efpx6JFGx7nYJX0rTUaC@6c48a",
+        "accu+Q/lhFk7KTMh6ZJy4Q"
+    ],
+    [
+        "mainTexture",
+        "_effectAsset"
+    ],
+    [
+        [
+            "cc.Material",
+            [
+                "_states",
+                "_defines",
+                "_props"
+            ],
+            1,
+            12
+        ]
+    ],
+    [
+        [
+            0,
+            0,
+            1,
+            2,
+            3
+        ]
+    ],
+    [
+        [
+            0,
+            [
+                {
+                    "rasterizerState": {},
+                    "depthStencilState": {},
+                    "blendState": {
+                        "targets": [
+                            {}
+                        ]
+                    }
+                }
+            ],
+            [
+                {}
+            ],
+            [
+                [
+                    [
+                        {
+                            "brightness": 1,
+                            "saturation": 1.3,
+                            "contrast": 1,
+                            "gammaValue": 1,
+                            "diffuseFactor": 1
+                        },
+                        "mainTexture",
+                        6,
+                        0
+                    ]
+                ],
+                11
+            ]
+        ]
+    ],
+    0,
+    0,
+    [
+        0,
+        0
+    ],
+    [
+        0,
+        1
+    ],
+    [
+        0,
+        1
+    ]
+]

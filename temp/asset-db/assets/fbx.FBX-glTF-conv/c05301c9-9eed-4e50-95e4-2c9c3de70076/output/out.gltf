@@ -815,8 +815,8 @@
     {
       "extras": {
         "FBX-glTF-conv": {
-          "fileName": "D:\\CongViec_HocTap\\CongTy\\Amobear\\SupermarketTycoon3D\\temp\\asset-db\\assets\\fbx.FBX-glTF-conv\\c05301c9-9eed-4e50-95e4-2c9c3de70076\\output\\.fbm\\F06F28C8\\CardboardBox_20x20x10.fbm/CardboardBox_20x20x10_Albedo.png",
-          "relativeFileName": "..\\..\\..\\..\\temp\\asset-db\\assets\\fbx.FBX-glTF-conv\\c05301c9-9eed-4e50-95e4-2c9c3de70076\\output\\.fbm\\F06F28C8\\CardboardBox_20x20x10.fbm\\CardboardBox_20x20x10_Albedo.png"
+          "fileName": "D:\\IEC\\Testing\\Amobear_Supermarket\\temp\\asset-db\\assets\\fbx.FBX-glTF-conv\\c05301c9-9eed-4e50-95e4-2c9c3de70076\\output\\.fbm\\F88B2107\\CardboardBox_20x20x10.fbm/CardboardBox_20x20x10_Albedo.png",
+          "relativeFileName": "..\\..\\..\\..\\temp\\asset-db\\assets\\fbx.FBX-glTF-conv\\c05301c9-9eed-4e50-95e4-2c9c3de70076\\output\\.fbm\\F88B2107\\CardboardBox_20x20x10.fbm\\CardboardBox_20x20x10_Albedo.png"
         }
       },
       "name": "DiffuseColor_Texture",

@@ -40,7 +40,7 @@ export class SoundController extends Singleton<SoundController> {
 
     public PlaySound(stringAudioName: string) {
         // if (!IronSource.SoundState) return;
-
+        // return;
         switch (stringAudioName) {
             case "bgSound":
                 this.bgSound.play();

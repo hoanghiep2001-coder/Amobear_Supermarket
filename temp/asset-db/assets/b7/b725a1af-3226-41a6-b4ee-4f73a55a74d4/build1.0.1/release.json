@@ -1,0 +1,142 @@
+[
+    1,
+    [
+        "9cirRiXatNU7Ke6w76ljk0@6c48a",
+        "a7YStUNeNCOKGpSntUY1g5"
+    ],
+    [
+        "mainTexture",
+        "_effectAsset"
+    ],
+    [
+        [
+            "cc.Material",
+            [
+                "_states",
+                "_defines",
+                "_props"
+            ],
+            1,
+            12
+        ]
+    ],
+    [
+        [
+            0,
+            0,
+            1,
+            2,
+            3
+        ]
+    ],
+    [
+        [
+            0,
+            [
+                {
+                    "rasterizerState": {},
+                    "depthStencilState": {},
+                    "blendState": {
+                        "targets": [
+                            {}
+                        ]
+                    }
+                },
+                {
+                    "rasterizerState": {},
+                    "depthStencilState": {},
+                    "blendState": {
+                        "targets": [
+                            {}
+                        ]
+                    }
+                },
+                {},
+                {}
+            ],
+            [
+                {
+                    "USE_OUTLINE_PASS": true,
+                    "USE_POSITION_SCALING": true
+                },
+                {
+                    "USE_BASE_COLOR_MAP": true,
+                    "BASE_COLOR_MAP_AS_SHADE_MAP_1": true,
+                    "BASE_COLOR_MAP_AS_SHADE_MAP_2": true
+                },
+                {},
+                {}
+            ],
+            [
+                [
+                    [
+                        {
+                            "lineWidth": 0.1
+                        },
+                        "baseColor",
+                        8,
+                        [
+                            4,
+                            4280942336
+                        ]
+                    ],
+                    [
+                        {
+                            "baseStep": 1.5,
+                            "baseFeather": 1,
+                            "shadeStep": 0.55,
+                            "shadeFeather": 0.5
+                        },
+                        "mainColor",
+                        8,
+                        [
+                            4,
+                            4292664541
+                        ],
+                        "shadeColor1",
+                        8,
+                        [
+                            4,
+                            4281413937
+                        ],
+                        "shadeColor2",
+                        8,
+                        [
+                            4,
+                            4281413937
+                        ],
+                        "specular",
+                        8,
+                        [
+                            4,
+                            1275068418
+                        ],
+                        "mainTexture",
+                        6,
+                        0
+                    ],
+                    {},
+                    {}
+                ],
+                11,
+                11,
+                0,
+                0
+            ]
+        ]
+    ],
+    0,
+    0,
+    [
+        0,
+        0
+    ],
+    [
+        0,
+        1
+    ],
+    [
+        0,
+        1
+    ]
+]

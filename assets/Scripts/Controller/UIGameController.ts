@@ -160,7 +160,7 @@ export class UIGameController extends Component {
                 GameInfo.currentCenGive = 0;
                 emoji_haha.active = true;
                 this.TouchArea_GiveTheChange.active = false;
-                this.userMoney.getComponent(Animation).play();
+                if(this.userMoney) this.userMoney.getComponent(Animation).play();
                 this.deleteMoneyOnTheDesk();
                 SoundController.Instance(SoundController).PlaySound(CONST.SoundTrack.winSound);
             }
@@ -215,7 +215,7 @@ export class UIGameController extends Component {
             emoji_haha.active = true;
             this.TouchArea_GiveTheChange.active = false;
             this.TouchArea_Banking.active = false;
-            this.userMoney.getComponent(Animation).play();
+            if(this.userMoney)this.userMoney.getComponent(Animation).play();
             this.deleteMoneyOnTheDesk();
             SoundController.Instance(SoundController).PlaySound(CONST.SoundTrack.winSound);
         }

@@ -1,0 +1,53 @@
+[
+    1,
+    [
+        "1c45EbUIdAP6wkshHs+eRB@6c48a"
+    ],
+    [
+        "_textureSource"
+    ],
+    [
+        "cc.SpriteFrame"
+    ],
+    0,
+    [
+        {
+            "name": "dolar_lv1",
+            "rect": {
+                "x": 1,
+                "y": 1,
+                "width": 67,
+                "height": 69
+            },
+            "offset": {
+                "x": 0,
+                "y": 0.5
+            },
+            "originalSize": {
+                "width": 69,
+                "height": 72
+            },
+            "rotated": false,
+            "capInsets": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "packable": true
+        }
+    ],
+    [
+        0
+    ],
+    0,
+    [
+        0
+    ],
+    [
+        0
+    ],
+    [
+        0
+    ]
+]

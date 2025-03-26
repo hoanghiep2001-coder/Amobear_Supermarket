@@ -1,78 +1,134 @@
-2025-03-25 22:17:31-log: [Package] menu@1.0.0 enable
-2025-03-25 22:17:31-log: [Package] profile@1.0.0 enable
-2025-03-25 22:17:31-log: [Package] project@1.0.1 enable
-2025-03-25 22:17:31-log: [Package] messages@1.0.0 enable
-2025-03-25 22:17:31-log: [Package] program@1.0.0 enable
-2025-03-25 22:17:31-log: [Package] device@1.0.1 enable
-2025-03-25 22:17:31-log: [Package] ui-kit@1.0.1 enable
-2025-03-25 22:17:31-log: [Package] tester@1.0.0 enable
-2025-03-25 22:17:31-log: [Package] preferences@1.0.0 enable
-2025-03-25 22:17:32-log: Setup mods mgr.: 670.675ms
-2025-03-25 22:17:32-log: Profile changed: engine (modules.includeModules: 2d,3d,audio,base,dragon-bones,gfx-webgl,gfx-webgl2,intersection-2d,marionette,particle-2d,physics-ammo,primitive,profiler,terrain,tiled-map,tween,ui,webview)
-2025-03-25 22:17:33-log: [Package] engine@1.0.5 enable
-2025-03-25 22:17:35-log: [Package] programming@1.0.0 enable
-2025-03-25 22:17:35-log: [Package] engine-extends@1.0.0 enable
-2025-03-25 22:17:35-log: [Package] asset-db@1.0.0 enable
-2025-03-25 22:17:36-log: [Package] console@1.0.0 enable
-2025-03-25 22:17:36-log: [Package] scene@1.0.0 enable
-2025-03-25 22:17:36-log: [Package] utils@1.0.0 enable
-2025-03-25 22:17:36-log: [Package] assets@1.0.0 enable
-2025-03-25 22:17:36-log: [Package] inspector@1.0.0 enable
-2025-03-25 22:17:36-log: [Package] hierarchy@1.0.0 enable
-2025-03-25 22:17:37-log: [Package] preview@1.0.1 enable
-2025-03-25 22:17:37-log: [Package] animator@1.0.0 enable
-2025-03-25 22:17:38-log: [Package] builder@1.3.1 enable
-2025-03-25 22:17:38-log: [Package] node-library@1.0.0 enable
-2025-03-25 22:17:38-log: [Package] shortcuts@1.0.1 enable
-2025-03-25 22:17:38-log: [Package] package-asset@1.0.0 enable
-2025-03-25 22:17:38-log: [Package] reference-image@1.0.0 enable
-2025-03-25 22:17:38-log: [Package] animation-graph@1.0.0 enable
-2025-03-25 22:17:38-log: [Package] channel-upload-tools@1.0.0 enable
-2025-03-25 22:17:38-log: [Package] runtime-dev-tools@1.0.0 enable
-2025-03-25 22:17:38-log: [Package] lightmap@1.0.4 enable
-2025-03-25 22:17:38-log: [Package] alipay-mini-game@1.0.0 enable
-2025-03-25 22:17:38-log: [Package] android@1.0.0 enable
-2025-03-25 22:17:38-log: [Package] baidu-mini-game@1.0.0 enable
-2025-03-25 22:17:38-log: [Package] bytedance-mini-game@1.0.1 enable
-2025-03-25 22:17:38-log: [Package] huawei-agc@1.0.0 enable
-2025-03-25 22:17:39-log: [Package] ios@1.0.0 enable
-2025-03-25 22:17:39-log: [Package] ios-app-clip@1.0.0 enable
-2025-03-25 22:17:39-log: [Package] mac@1.0.0 enable
-2025-03-25 22:17:39-log: [Package] native@1.0.0 enable
-2025-03-25 22:17:39-log: [Package] ohos@1.0.0 enable
-2025-03-25 22:17:39-log: [Package] web-desktop@1.0.0 enable
-2025-03-25 22:17:39-log: [Package] web-mobile@1.0.0 enable
-2025-03-25 22:17:39-log: [Package] wechatgame@1.0.1 enable
-2025-03-25 22:17:39-log: [Package] windows@1.0.0 enable
-2025-03-25 22:17:39-log: [Package] xiaomi-quick-game@1.0.0 enable
-2025-03-25 22:17:39-log: [Package] cocos-play@1.0.0 enable
-2025-03-25 22:17:39-log: [Package] huawei-quick-game@1.0.0 enable
-2025-03-25 22:17:39-log: [Package] link-sure@1.0.0 enable
-2025-03-25 22:17:39-log: [Package] oppo-mini-game@1.0.0 enable
-2025-03-25 22:17:39-log: [Package] qtt@1.0.0 enable
-2025-03-25 22:17:39-log: [Package] vivo-mini-game@1.0.0 enable
-2025-03-25 22:17:39-log: [Package] cocos-service@3.0.2 enable
-2025-03-25 22:17:39-log: [Package] importer@1.0.0 enable
-2025-03-25 22:17:40-log: [Package] extension@3.0.15 enable
-2025-03-25 22:17:40-log: [Im-plugin] Check im-plugin version.
-2025-03-25 22:17:40-log: [Package] im-plugin@3.0.8 enable
-2025-03-25 22:17:40-log: [Package] super-html@1.1.3 enable
-2025-03-25 22:17:47-log: [Im-plugin] No online info of im-plugin.
-2025-03-25 22:17:53-error: [Asset DB] Importer exec failed: {asset[D:\CongViec_HocTap\CongTy\Amobear\SupermarketTycoon3D\assets\Scripts\Particles\_particle_texture.png](095c015b-4554-44e6-8765-fb79520f03b0)}
-2025-03-25 22:17:53-error: [Asset DB] Input buffer contains unsupported image format
-2025-03-25 22:18:00-warn: Browserslist: caniuse-lite is outdated. Please run:
+2025-03-26 12:24:24-log: [Package] menu@1.0.0 enable
+2025-03-26 12:24:24-log: [Package] profile@1.0.0 enable
+2025-03-26 12:24:24-log: [Package] project@1.0.1 enable
+2025-03-26 12:24:24-log: [Package] messages@1.0.0 enable
+2025-03-26 12:24:24-log: [Package] program@1.0.0 enable
+2025-03-26 12:24:24-log: [Package] device@1.0.1 enable
+2025-03-26 12:24:24-log: [Package] ui-kit@1.0.1 enable
+2025-03-26 12:24:24-log: [Package] tester@1.0.0 enable
+2025-03-26 12:24:24-log: [Package] preferences@1.0.0 enable
+2025-03-26 12:24:25-log: Setup mods mgr.: 203.794ms
+2025-03-26 12:24:25-log: Profile changed: engine (modules.includeModules: 2d,3d,audio,base,dragon-bones,gfx-webgl,gfx-webgl2,intersection-2d,marionette,particle-2d,physics-ammo,primitive,profiler,terrain,tiled-map,tween,ui,webview)
+2025-03-26 12:24:25-log: [Package] engine@1.0.5 enable
+2025-03-26 12:24:26-log: [Package] programming@1.0.0 enable
+2025-03-26 12:24:27-log: [Package] engine-extends@1.0.0 enable
+2025-03-26 12:24:27-log: [Package] asset-db@1.0.0 enable
+2025-03-26 12:24:27-log: [Package] console@1.0.0 enable
+2025-03-26 12:24:27-log: [Package] scene@1.0.0 enable
+2025-03-26 12:24:27-log: [Package] about@1.0.0 enable
+2025-03-26 12:24:27-log: [Package] server@1.0.0 enable
+2025-03-26 12:24:27-log: [Package] utils@1.0.0 enable
+2025-03-26 12:24:27-log: [Package] assets@1.0.0 enable
+2025-03-26 12:24:27-log: [Package] inspector@1.0.0 enable
+2025-03-26 12:24:27-log: [Package] hierarchy@1.0.0 enable
+2025-03-26 12:24:28-log: [Package] preview@1.0.1 enable
+2025-03-26 12:24:28-log: [Package] animator@1.0.0 enable
+2025-03-26 12:24:29-log: [Package] builder@1.3.1 enable
+2025-03-26 12:24:29-log: [Package] node-library@1.0.0 enable
+2025-03-26 12:24:29-log: [Package] shortcuts@1.0.1 enable
+2025-03-26 12:24:29-log: [Package] package-asset@1.0.0 enable
+2025-03-26 12:24:29-log: [Package] reference-image@1.0.0 enable
+2025-03-26 12:24:29-log: [Package] animation-graph@1.0.0 enable
+2025-03-26 12:24:29-log: [Package] channel-upload-tools@1.0.0 enable
+2025-03-26 12:24:29-log: [Package] runtime-dev-tools@1.0.0 enable
+2025-03-26 12:24:29-log: [Package] lightmap@1.0.4 enable
+2025-03-26 12:24:29-log: [Package] alipay-mini-game@1.0.0 enable
+2025-03-26 12:24:29-log: [Package] android@1.0.0 enable
+2025-03-26 12:24:29-log: [Package] baidu-mini-game@1.0.0 enable
+2025-03-26 12:24:29-log: [Package] bytedance-mini-game@1.0.1 enable
+2025-03-26 12:24:29-log: [Package] huawei-agc@1.0.0 enable
+2025-03-26 12:24:29-log: [Package] ios@1.0.0 enable
+2025-03-26 12:24:29-log: [Package] ios-app-clip@1.0.0 enable
+2025-03-26 12:24:29-log: [Package] mac@1.0.0 enable
+2025-03-26 12:24:29-log: [Package] native@1.0.0 enable
+2025-03-26 12:24:29-log: [Package] ohos@1.0.0 enable
+2025-03-26 12:24:29-log: [Package] web-desktop@1.0.0 enable
+2025-03-26 12:24:29-log: [Package] web-mobile@1.0.0 enable
+2025-03-26 12:24:29-log: [Package] wechatgame@1.0.1 enable
+2025-03-26 12:24:29-log: [Package] windows@1.0.0 enable
+2025-03-26 12:24:29-log: [Package] xiaomi-quick-game@1.0.0 enable
+2025-03-26 12:24:29-log: [Package] cocos-play@1.0.0 enable
+2025-03-26 12:24:29-log: [Package] huawei-quick-game@1.0.0 enable
+2025-03-26 12:24:29-log: [Package] link-sure@1.0.0 enable
+2025-03-26 12:24:29-log: [Package] oppo-mini-game@1.0.0 enable
+2025-03-26 12:24:30-log: [Package] qtt@1.0.0 enable
+2025-03-26 12:24:30-log: [Package] vivo-mini-game@1.0.0 enable
+2025-03-26 12:24:30-log: [Package] cocos-service@3.0.2 enable
+2025-03-26 12:24:30-log: [Package] importer@1.0.0 enable
+2025-03-26 12:24:30-log: [Package] extension@3.0.15 enable
+2025-03-26 12:24:30-log: [Im-plugin] Check im-plugin version.
+2025-03-26 12:24:30-log: [Package] im-plugin@3.0.8 enable
+2025-03-26 12:24:30-log: [Package] super-html@1.1.3 enable
+2025-03-26 12:24:31-log: [Im-plugin] No online info of im-plugin.
+2025-03-26 12:24:35-error: [Asset DB] Importer exec failed: {asset[D:\IEC\Testing\Amobear_Supermarket\assets\Scripts\Particles\_particle_texture.png](095c015b-4554-44e6-8765-fb79520f03b0)}
+2025-03-26 12:24:35-error: [Asset DB] Input buffer contains unsupported image format
+2025-03-26 12:24:41-warn: Browserslist: caniuse-lite is outdated. Please run:
 npx browserslist@latest --update-db
 
 Why you should do it regularly:
 https://github.com/browserslist/browserslist#browsers-data-updating
-2025-03-25 22:18:01-log: [Scene] Cocos Creator v3.4.2
-2025-03-25 22:18:02-info: [Scene] Forward render pipeline initialized.
-2025-03-25 22:20:08-error: [Scene] You are trying to destroy a object twice or more.
-2025-03-26 00:35:35-error: [Preview]Uncaught TypeError: Cannot read properties of undefined (reading 'worldPosition') in http://localhost:7456/scripting/x/mods/fs/0/assets/Scripts/Options/PA_07/GamePlay/PA_07_GamePlay.js
-2025-03-26 00:40:59-warn: [Build] Browserslist: caniuse-lite is outdated. Please run:
+2025-03-26 12:24:42-log: [Scene] Cocos Creator v3.4.2
+2025-03-26 12:24:43-info: [Scene] Forward render pipeline initialized.
+2025-03-26 12:25:32-error: [Scene] You are trying to destroy a object twice or more.
+2025-03-26 12:26:08-warn: [Build] Browserslist: caniuse-lite is outdated. Please run:
 npx browserslist@latest --update-db
-2025-03-26 00:41:00-warn: [Build] Browserslist: caniuse-lite is outdated. Please run:
+2025-03-26 12:26:09-warn: [Build] Browserslist: caniuse-lite is outdated. Please run:
 npx browserslist@latest --update-db
 
 Why you should do it regularly:
 https://github.com/browserslist/browserslist#browsers-data-updating
+2025-03-26 12:30:19-warn: [Scene] Node "Tut" has no path "taptroopenbox".
+2025-03-26 12:30:50-warn: [Scene] Node "Tut" has no path "taptroopenbox".
+2025-03-26 12:35:58-warn: [Scene] Node "Tut" has no path "taptroopenbox".
+2025-03-26 12:40:08-warn: [Scene] Node "Tut" has no path "taptroopenbox".
+2025-03-26 12:41:05-warn: [Scene] Node "Tut" has no path "taptroopenbox".
+2025-03-26 12:41:39-warn: [Scene] Node "Tut" has no path "taptroopenbox".
+2025-03-26 12:42:28-warn: [Scene] Node "Tut" has no path "taptroopenbox".
+2025-03-26 12:42:35-warn: [Scene] Node "Tut" has no path "taptroopenbox".
+2025-03-26 12:43:17-warn: [Scene] Node "Tut" has no path "taptroopenbox".
+2025-03-26 12:43:59-warn: [Scene] Node "Tut" has no path "taptroopenbox".
+2025-03-26 12:44:32-warn: [Scene] Node "Tut" has no path "taptroopenbox".
+2025-03-26 12:44:59-warn: [Scene] Node "Tut" has no path "taptroopenbox".
+2025-03-26 12:45:25-warn: [Scene] Node "Tut" has no path "taptroopenbox".
+2025-03-26 13:01:48-warn: [Scene] Node "Tut" has no path "taptroopenbox".
+2025-03-26 13:02:18-warn: [Scene] Node "Tut" has no path "taptroopenbox".
+2025-03-26 13:03:03-warn: [Scene] Node "Tut" has no path "taptroopenbox".
+2025-03-26 13:04:15-warn: [Scene] Node "Tut" has no path "taptroopenbox".
+2025-03-26 13:07:58-error: [Scene] You are trying to destroy a object twice or more.
+2025-03-26 13:09:01-error: [Scene] You are trying to destroy a object twice or more.
+2025-03-26 13:09:23-error: [Scene] You are trying to destroy a object twice or more.
+2025-03-26 13:09:25-error: [Scene] The Asset used by component "UIGameController" in scene "Market_PA_04" is missing. Detailed information:
+Asset url: "db://assets/Scene/Market_PA_04"
+Missing uuid: "1d80a22e-8317-4f23-b3dc-c3ea8b7efc55"
+
+2025-03-26 13:09:25-error: [Scene] You are trying to destroy a object twice or more.
+2025-03-26 13:09:55-error: [Scene] You are trying to destroy a object twice or more.
+2025-03-26 13:10:58-error: [Scene] You are trying to destroy a object twice or more.
+2025-03-26 13:11:35-error: [Scene] You are trying to destroy a object twice or more.
+2025-03-26 13:11:49-error: [Scene] You are trying to destroy a object twice or more.
+2025-03-26 13:11:49-warn: [Scene] Node "Tut" has no path "taptroopenbox".
+2025-03-26 13:12:45-error: [Scene] You are trying to destroy a object twice or more.
+2025-03-26 13:12:45-warn: [Scene] Node "Tut" has no path "taptroopenbox".
+2025-03-26 13:20:02-error: [Scene] You are trying to destroy a object twice or more.
+2025-03-26 13:24:55-error: [Asset DB] ../Art/Shader/UnityConvertShaderWithStroke.effect - type error: Error EFX3302: illegal property declaration for 'outlineColor': no matching uniform
+2025-03-26 13:24:55-error: [Scene] download failed: import://e4/e40a0803-b5bd-4c84-893e-340f67fca2a6.json?_t=1742970295143, status: 0(error)
+2025-03-26 13:25:11-error: [Window] The "path" argument must be of type string or an instance of Buffer or URL. Received undefined
+2025-03-26 13:30:05-error: [Scene] You are trying to destroy a object twice or more.
+2025-03-26 13:31:53-error: [Scene] The Asset used by component "UIGameController" is missing. Detailed information:
+Missing uuid: "1d80a22e-8317-4f23-b3dc-c3ea8b7efc55"
+
+2025-03-26 13:31:53-error: [Scene] You are trying to destroy a object twice or more.
+2025-03-26 13:33:45-error: [Scene] You are trying to destroy a object twice or more.
+2025-03-26 13:33:49-error: [Scene] The Asset used by component "UIGameController" in scene "Market_PA_04" is missing. Detailed information:
+Asset url: "db://assets/Scene/Market_PA_04"
+Missing uuid: "1d80a22e-8317-4f23-b3dc-c3ea8b7efc55"
+
+2025-03-26 13:33:49-error: [Scene] You are trying to destroy a object twice or more.
+2025-03-26 13:34:47-error: [Preview]Uncaught TypeError: Cannot read properties of null (reading 'getComponent') in http://localhost:7456/scripting/x/mods/fs/0/assets/Scripts/Controller/UIGameController.js
+2025-03-26 13:35:31-error: [Scene] You are trying to destroy a object twice or more.
+2025-03-26 13:35:38-error: [Scene] You are trying to destroy a object twice or more.
+2025-03-26 13:36:04-error: [Scene] You are trying to destroy a object twice or more.
+2025-03-26 13:36:06-error: [Scene] You are trying to destroy a object twice or more.
+2025-03-26 13:36:25-error: [Preview]Uncaught TypeError: Cannot read properties of null (reading 'getComponent') in http://localhost:7456/scripting/x/mods/fs/0/assets/Scripts/Controller/UIGameController.js
+2025-03-26 13:36:47-error: [Scene] You are trying to destroy a object twice or more.
+2025-03-26 13:37:42-error: [Scene] You are trying to destroy a object twice or more.

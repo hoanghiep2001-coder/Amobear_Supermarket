@@ -65,6 +65,7 @@ System.register(["__unresolved_0", "cc", "__unresolved_1"], function (_export, _
 
         PlaySound(stringAudioName) {
           // if (!IronSource.SoundState) return;
+          // return;
           switch (stringAudioName) {
             case "bgSound":
               this.bgSound.play();

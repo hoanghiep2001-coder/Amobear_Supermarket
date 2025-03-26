@@ -226,7 +226,7 @@ System.register(["__unresolved_0", "cc", "__unresolved_1", "__unresolved_2", "__
               }), GameInfo) : GameInfo).currentCenGive = 0;
               emoji_haha.active = true;
               this.TouchArea_GiveTheChange.active = false;
-              this.userMoney.getComponent(Animation).play();
+              if (this.userMoney) this.userMoney.getComponent(Animation).play();
               this.deleteMoneyOnTheDesk();
               (_crd && SoundController === void 0 ? (_reportPossibleCrUseOfSoundController({
                 error: Error()
@@ -327,7 +327,7 @@ System.register(["__unresolved_0", "cc", "__unresolved_1", "__unresolved_2", "__
             emoji_haha.active = true;
             this.TouchArea_GiveTheChange.active = false;
             this.TouchArea_Banking.active = false;
-            this.userMoney.getComponent(Animation).play();
+            if (this.userMoney) this.userMoney.getComponent(Animation).play();
             this.deleteMoneyOnTheDesk();
             (_crd && SoundController === void 0 ? (_reportPossibleCrUseOfSoundController({
               error: Error()

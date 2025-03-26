@@ -1,0 +1,93 @@
+[
+    1,
+    [
+        "ecKa3U6X5KW4N/d959sk05@6c48a",
+        "1brw/JvvpFnIvdrxpFCgMZ"
+    ],
+    [
+        "mainTexture",
+        "_effectAsset"
+    ],
+    [
+        [
+            "cc.Material",
+            [
+                "_techIdx",
+                "_states",
+                "_defines",
+                "_props"
+            ],
+            0,
+            12
+        ]
+    ],
+    [
+        [
+            0,
+            0,
+            1,
+            2,
+            3,
+            4
+        ]
+    ],
+    [
+        [
+            0,
+            "0",
+            [
+                {
+                    "rasterizerState": {},
+                    "depthStencilState": {},
+                    "blendState": {
+                        "targets": [
+                            {}
+                        ]
+                    }
+                },
+                {},
+                {}
+            ],
+            [
+                {
+                    "USE_TWOSIDE": true,
+                    "USE_ALBEDO_MAP": true
+                },
+                {},
+                {}
+            ],
+            [
+                [
+                    [
+                        {
+                            "roughness": 0,
+                            "metallic": 0.25
+                        },
+                        "mainTexture",
+                        6,
+                        0
+                    ],
+                    {},
+                    {}
+                ],
+                11,
+                0,
+                0
+            ]
+        ]
+    ],
+    0,
+    0,
+    [
+        0,
+        0
+    ],
+    [
+        0,
+        1
+    ],
+    [
+        0,
+        1
+    ]
+]

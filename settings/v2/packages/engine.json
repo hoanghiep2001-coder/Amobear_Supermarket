@@ -11,7 +11,7 @@
       "intersection-2d",
       "marionette",
       "particle-2d",
-      "physics-ammo",
+      "physics-cannon",
       "primitive",
       "profiler",
       "terrain",
@@ -47,7 +47,7 @@
       },
       "physics": {
         "_value": true,
-        "_option": "physics-ammo"
+        "_option": "physics-cannon"
       },
       "physics-ammo": {
         "_value": false

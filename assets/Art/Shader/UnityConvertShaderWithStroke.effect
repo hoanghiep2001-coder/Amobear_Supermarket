@@ -1,0 +1,110 @@
+CCEffect %{
+  techniques:
+  - name: opaque
+    passes:
+    - vert: general-vs:vert # Builtin header
+      frag: custom-unlit-fs:frag
+      properties: &props
+        mainTexture:      { value: white }
+        brightness:       { value: 1.05 }
+        saturation:       { value: 1.2 }
+        contrast:         { value: 1.1 }
+        gammaValue:       { value: 5.0 }
+        diffuseThreshold: { value: 0.5 }
+        diffuseFactor:    { value: 0.2 }
+        mainColor:        { value: [1, 1, 1, 1], editor: { type: color } }
+        cutoff:           { value: 0.5 }
+        outlineColor:     { value: [0, 0, 0, 1], editor: { type: color } }
+        outlineWidth:     { value: 0.03 }
+  - name: transparent
+    passes:
+    - vert: general-vs:vert # Builtin header
+      frag: custom-unlit-fs:frag
+      blendState:
+        targets:
+        - blend: true
+          blendSrc: src_alpha
+          blendDst: one_minus_src_alpha
+          blendSrcAlpha: src_alpha
+          blendDstAlpha: one_minus_src_alpha
+      properties: *props
+
+  - name: outline
+    passes:
+    - vert: general-vs:vert
+      frag: outline-fs:frag
+      rasterizerState:
+        cullMode: front
+      properties: *props
+%}
+
+CCProgram custom-unlit-fs %{
+  precision highp float;
+  #include <output>
+  #include <cc-fog-fs>
+
+  in vec2 v_uv;
+  in vec3 v_position;
+
+  uniform sampler2D mainTexture;
+
+  uniform Constant {
+    vec4 mainColor;
+    float brightness;
+    float saturation;
+    float contrast;
+    float gammaValue;
+    float diffuseThreshold;
+    float diffuseFactor;
+    float cutoff;
+  };
+
+  vec4 frag () {
+    // Sample the texture
+    vec4 color = texture(mainTexture, v_uv);
+
+    // Apply brightness
+    color.rgb *= brightness;
+
+    // Convert to grayscale and apply saturation
+    float gray = dot(color.rgb, vec3(0.299, 0.587, 0.114));
+    color.rgb = mix(vec3(gray, gray, gray), color.rgb, saturation);
+
+    // Apply contrast
+    color.rgb = (color.rgb - 0.5) * contrast + 0.5;
+
+    // Apply gamma correction
+    color.rgb = pow(color.rgb, vec3(1.0 / gammaValue));
+
+    // Apply diffuse factor and threshold
+    if (color.r < diffuseThreshold && color.g < diffuseThreshold && color.b < diffuseThreshold) {
+      color.rgb *= diffuseFactor;
+    }
+
+    // Apply alpha cutoff
+    if (color.a < cutoff) {
+      discard;
+    }
+
+    // Apply fog effect (optional)
+    CC_APPLY_FOG(color, v_position);
+
+    return CCFragOutput(color);
+  }
+}%
+
+CCProgram outline-fs %{
+  precision highp float;
+  #include <output>
+
+  in vec3 v_position;
+
+  uniform Constant {
+    vec4 outlineColor;
+    float outlineWidth;
+  };
+
+  vec4 frag () {
+    return CCFragOutput(outlineColor);
+  }
+}%

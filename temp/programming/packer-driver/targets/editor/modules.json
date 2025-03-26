@@ -1,6 +1,6 @@
 {
   "cce:/internal/x/cc": {
-    "mTimestamp": 8220.899600028992,
+    "mTimestamp": 4801.7421000003815,
     "chunkId": "quick-pack:/cce/internal/x/cc.js",
     "imports": [
       {
@@ -389,11 +389,11 @@
     ]
   },
   "cce:/internal/x/prerequisite-imports": {
-    "mTimestamp": 8549045.969799995,
+    "mTimestamp": 4399894.469800001,
     "chunkId": "quick-pack:/cce/internal/x/prerequisite-imports.js",
     "imports": [
       {
-        "value": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/AdHelper/IronSource.ts",
+        "value": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/AdHelper/IronSource.ts",
         "rewritten": "__unresolved_0",
         "loc": {
           "start": {
@@ -402,371 +402,371 @@
           },
           "end": {
             "line": 5,
-            "column": 136
+            "column": 117
           }
         }
       },
       {
-        "value": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Const/CONST.ts",
+        "value": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Const/CONST.ts",
         "rewritten": "__unresolved_1",
         "loc": {
           "start": {
             "line": 5,
-            "column": 152
+            "column": 133
           },
           "end": {
             "line": 5,
-            "column": 245
+            "column": 207
           }
         }
       },
       {
-        "value": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Const/GameInfo.ts",
+        "value": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Const/GameInfo.ts",
         "rewritten": "__unresolved_2",
         "loc": {
           "start": {
             "line": 5,
-            "column": 261
+            "column": 223
           },
           "end": {
             "line": 5,
-            "column": 357
+            "column": 300
           }
         }
       },
       {
-        "value": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Const/interface.ts",
+        "value": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Const/interface.ts",
         "rewritten": "__unresolved_3",
         "loc": {
           "start": {
             "line": 5,
-            "column": 373
+            "column": 316
           },
           "end": {
             "line": 5,
-            "column": 470
+            "column": 394
           }
         }
       },
       {
-        "value": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Controller/GameController.ts",
+        "value": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Controller/GameController.ts",
         "rewritten": "__unresolved_4",
         "loc": {
           "start": {
             "line": 5,
-            "column": 486
+            "column": 410
           },
           "end": {
             "line": 5,
-            "column": 593
+            "column": 498
           }
         }
       },
       {
-        "value": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Controller/SoundController.ts",
+        "value": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Controller/SoundController.ts",
         "rewritten": "__unresolved_5",
         "loc": {
           "start": {
             "line": 5,
-            "column": 609
+            "column": 514
           },
           "end": {
             "line": 5,
-            "column": 717
+            "column": 603
           }
         }
       },
       {
-        "value": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Controller/UIGameController.ts",
+        "value": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Controller/UIGameController.ts",
         "rewritten": "__unresolved_6",
         "loc": {
           "start": {
             "line": 5,
-            "column": 733
+            "column": 619
           },
           "end": {
             "line": 5,
-            "column": 842
+            "column": 709
           }
         }
       },
       {
-        "value": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/GamePlay/HideMask.ts",
+        "value": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/GamePlay/HideMask.ts",
         "rewritten": "__unresolved_7",
         "loc": {
           "start": {
             "line": 5,
-            "column": 858
+            "column": 725
           },
           "end": {
             "line": 5,
-            "column": 957
+            "column": 805
           }
         }
       },
       {
-        "value": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Money/MoneyBehavior.ts",
+        "value": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Money/MoneyBehavior.ts",
         "rewritten": "__unresolved_8",
         "loc": {
           "start": {
             "line": 5,
-            "column": 973
+            "column": 821
           },
           "end": {
             "line": 5,
-            "column": 1074
+            "column": 903
           }
         }
       },
       {
-        "value": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Money/UserMoney.ts",
+        "value": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Money/UserMoney.ts",
         "rewritten": "__unresolved_9",
         "loc": {
           "start": {
             "line": 5,
-            "column": 1090
+            "column": 919
           },
           "end": {
             "line": 5,
-            "column": 1187
+            "column": 997
           }
         }
       },
       {
-        "value": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/NPC/NPC_Behavior.ts",
+        "value": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/NPC/NPC_Behavior.ts",
         "rewritten": "__unresolved_10",
         "loc": {
           "start": {
             "line": 5,
-            "column": 1203
+            "column": 1013
           },
           "end": {
             "line": 5,
-            "column": 1301
+            "column": 1092
           }
         }
       },
       {
-        "value": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/NPC/NPC_Controller.ts",
+        "value": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/NPC/NPC_Controller.ts",
         "rewritten": "__unresolved_11",
         "loc": {
           "start": {
             "line": 5,
-            "column": 1317
+            "column": 1108
           },
           "end": {
             "line": 5,
-            "column": 1417
+            "column": 1189
           }
         }
       },
       {
-        "value": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/NPC/NPC_Customer.ts",
+        "value": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/NPC/NPC_Customer.ts",
         "rewritten": "__unresolved_12",
         "loc": {
           "start": {
             "line": 5,
-            "column": 1433
+            "column": 1205
           },
           "end": {
             "line": 5,
-            "column": 1531
+            "column": 1284
           }
         }
       },
       {
-        "value": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Options/PA_06/PA_06_Camera.ts",
+        "value": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Options/PA_06/PA_06_Camera.ts",
         "rewritten": "__unresolved_13",
         "loc": {
           "start": {
             "line": 5,
-            "column": 1547
+            "column": 1300
           },
           "end": {
             "line": 5,
-            "column": 1655
+            "column": 1389
           }
         }
       },
       {
-        "value": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Options/PA_06/PA_06_GamePlay.ts",
+        "value": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Options/PA_06/PA_06_GamePlay.ts",
         "rewritten": "__unresolved_14",
         "loc": {
           "start": {
             "line": 5,
-            "column": 1671
+            "column": 1405
           },
           "end": {
             "line": 5,
-            "column": 1781
+            "column": 1496
           }
         }
       },
       {
-        "value": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Options/PA_06/PA_06_HideMask.ts",
+        "value": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Options/PA_06/PA_06_HideMask.ts",
         "rewritten": "__unresolved_15",
         "loc": {
           "start": {
             "line": 5,
-            "column": 1797
+            "column": 1512
           },
           "end": {
             "line": 5,
-            "column": 1907
+            "column": 1603
           }
         }
       },
       {
-        "value": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Options/PA_06/PA_06_NPC_Controller.ts",
+        "value": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Options/PA_06/PA_06_NPC_Controller.ts",
         "rewritten": "__unresolved_16",
         "loc": {
           "start": {
             "line": 5,
-            "column": 1923
+            "column": 1619
           },
           "end": {
             "line": 5,
-            "column": 2039
+            "column": 1716
           }
         }
       },
       {
-        "value": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Options/PA_06/PA_06_TimeCountDown.ts",
+        "value": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Options/PA_06/PA_06_TimeCountDown.ts",
         "rewritten": "__unresolved_17",
         "loc": {
           "start": {
             "line": 5,
-            "column": 2055
+            "column": 1732
           },
           "end": {
             "line": 5,
-            "column": 2170
+            "column": 1828
           }
         }
       },
       {
-        "value": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Options/PA_07/GamePlay/PA_07_Camera.ts",
+        "value": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Options/PA_07/GamePlay/PA_07_Camera.ts",
         "rewritten": "__unresolved_18",
         "loc": {
           "start": {
             "line": 5,
-            "column": 2186
+            "column": 1844
           },
           "end": {
             "line": 5,
-            "column": 2303
+            "column": 1942
           }
         }
       },
       {
-        "value": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Options/PA_07/GamePlay/PA_07_GamePlay.ts",
+        "value": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Options/PA_07/GamePlay/PA_07_GamePlay.ts",
         "rewritten": "__unresolved_19",
         "loc": {
           "start": {
             "line": 5,
-            "column": 2319
+            "column": 1958
           },
           "end": {
             "line": 5,
-            "column": 2438
+            "column": 2058
           }
         }
       },
       {
-        "value": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Options/PA_07/GamePlay/PA_07_HideMask.ts",
+        "value": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Options/PA_07/GamePlay/PA_07_HideMask.ts",
         "rewritten": "__unresolved_20",
         "loc": {
           "start": {
             "line": 5,
-            "column": 2454
+            "column": 2074
           },
           "end": {
             "line": 5,
-            "column": 2573
+            "column": 2174
           }
         }
       },
       {
-        "value": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Others/CTA.ts",
+        "value": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Others/CTA.ts",
         "rewritten": "__unresolved_21",
         "loc": {
           "start": {
             "line": 5,
-            "column": 2589
+            "column": 2190
           },
           "end": {
             "line": 5,
-            "column": 2681
+            "column": 2263
           }
         }
       },
       {
-        "value": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Others/HandleLogicGamePlay.ts",
+        "value": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Others/HandleLogicGamePlay.ts",
         "rewritten": "__unresolved_22",
         "loc": {
           "start": {
             "line": 5,
-            "column": 2697
+            "column": 2279
           },
           "end": {
             "line": 5,
-            "column": 2805
+            "column": 2368
           }
         }
       },
       {
-        "value": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Utils/EnablePhysics.ts",
+        "value": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Utils/EnablePhysics.ts",
         "rewritten": "__unresolved_23",
         "loc": {
           "start": {
             "line": 5,
-            "column": 2821
+            "column": 2384
           },
           "end": {
             "line": 5,
-            "column": 2922
+            "column": 2466
           }
         }
       },
       {
-        "value": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Utils/Responsive.ts",
+        "value": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Utils/Responsive.ts",
         "rewritten": "__unresolved_24",
         "loc": {
           "start": {
             "line": 5,
-            "column": 2938
+            "column": 2482
           },
           "end": {
             "line": 5,
-            "column": 3036
+            "column": 2561
           }
         }
       },
       {
-        "value": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Utils/Singleton.ts",
+        "value": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Utils/Singleton.ts",
         "rewritten": "__unresolved_25",
         "loc": {
           "start": {
             "line": 5,
-            "column": 3052
+            "column": 2577
           },
           "end": {
             "line": 5,
-            "column": 3149
+            "column": 2655
           }
         }
       },
       {
-        "value": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Utils/Utility.ts",
+        "value": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Utils/Utility.ts",
         "rewritten": "__unresolved_26",
         "loc": {
           "start": {
             "line": 5,
-            "column": 3165
+            "column": 2671
           },
           "end": {
             "line": 5,
-            "column": 3260
+            "column": 2747
           }
         }
       }
@@ -777,111 +777,111 @@
     "resolvedImports": [
       {
         "isExternal": false,
-        "url": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/AdHelper/IronSource.ts"
+        "url": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/AdHelper/IronSource.ts"
       },
       {
         "isExternal": false,
-        "url": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Const/CONST.ts"
+        "url": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Const/CONST.ts"
       },
       {
         "isExternal": false,
-        "url": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Const/GameInfo.ts"
+        "url": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Const/GameInfo.ts"
       },
       {
         "isExternal": false,
-        "url": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Const/interface.ts"
+        "url": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Const/interface.ts"
       },
       {
         "isExternal": false,
-        "url": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Controller/GameController.ts"
+        "url": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Controller/GameController.ts"
       },
       {
         "isExternal": false,
-        "url": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Controller/SoundController.ts"
+        "url": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Controller/SoundController.ts"
       },
       {
         "isExternal": false,
-        "url": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Controller/UIGameController.ts"
+        "url": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Controller/UIGameController.ts"
       },
       {
         "isExternal": false,
-        "url": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/GamePlay/HideMask.ts"
+        "url": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/GamePlay/HideMask.ts"
       },
       {
         "isExternal": false,
-        "url": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Money/MoneyBehavior.ts"
+        "url": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Money/MoneyBehavior.ts"
       },
       {
         "isExternal": false,
-        "url": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Money/UserMoney.ts"
+        "url": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Money/UserMoney.ts"
       },
       {
         "isExternal": false,
-        "url": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/NPC/NPC_Behavior.ts"
+        "url": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/NPC/NPC_Behavior.ts"
       },
       {
         "isExternal": false,
-        "url": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/NPC/NPC_Controller.ts"
+        "url": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/NPC/NPC_Controller.ts"
       },
       {
         "isExternal": false,
-        "url": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/NPC/NPC_Customer.ts"
+        "url": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/NPC/NPC_Customer.ts"
       },
       {
         "isExternal": false,
-        "url": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Options/PA_06/PA_06_Camera.ts"
+        "url": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Options/PA_06/PA_06_Camera.ts"
       },
       {
         "isExternal": false,
-        "url": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Options/PA_06/PA_06_GamePlay.ts"
+        "url": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Options/PA_06/PA_06_GamePlay.ts"
       },
       {
         "isExternal": false,
-        "url": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Options/PA_06/PA_06_HideMask.ts"
+        "url": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Options/PA_06/PA_06_HideMask.ts"
       },
       {
         "isExternal": false,
-        "url": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Options/PA_06/PA_06_NPC_Controller.ts"
+        "url": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Options/PA_06/PA_06_NPC_Controller.ts"
       },
       {
         "isExternal": false,
-        "url": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Options/PA_06/PA_06_TimeCountDown.ts"
+        "url": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Options/PA_06/PA_06_TimeCountDown.ts"
       },
       {
         "isExternal": false,
-        "url": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Options/PA_07/GamePlay/PA_07_Camera.ts"
+        "url": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Options/PA_07/GamePlay/PA_07_Camera.ts"
       },
       {
         "isExternal": false,
-        "url": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Options/PA_07/GamePlay/PA_07_GamePlay.ts"
+        "url": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Options/PA_07/GamePlay/PA_07_GamePlay.ts"
       },
       {
         "isExternal": false,
-        "url": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Options/PA_07/GamePlay/PA_07_HideMask.ts"
+        "url": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Options/PA_07/GamePlay/PA_07_HideMask.ts"
       },
       {
         "isExternal": false,
-        "url": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Others/CTA.ts"
+        "url": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Others/CTA.ts"
       },
       {
         "isExternal": false,
-        "url": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Others/HandleLogicGamePlay.ts"
+        "url": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Others/HandleLogicGamePlay.ts"
       },
       {
         "isExternal": false,
-        "url": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Utils/EnablePhysics.ts"
+        "url": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Utils/EnablePhysics.ts"
       },
       {
         "isExternal": false,
-        "url": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Utils/Responsive.ts"
+        "url": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Utils/Responsive.ts"
       },
       {
         "isExternal": false,
-        "url": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Utils/Singleton.ts"
+        "url": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Utils/Singleton.ts"
       },
       {
         "isExternal": false,
-        "url": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Utils/Utility.ts"
+        "url": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Utils/Utility.ts"
       }
     ]
   },
@@ -1893,7 +1893,7 @@
     ]
   },
   "cce:/internal/code-quality/cr.mjs": {
-    "mTimestamp": 1742915847491,
+    "mTimestamp": 1742966662022,
     "chunkId": "quick-pack:/cce/internal/code-quality/cr.js",
     "imports": [],
     "modLoMetadata": {
@@ -10904,30 +10904,9 @@
       }
     ]
   },
-  "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Const/interface.ts": {
+  "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/AdHelper/IronSource.ts": {
     "mTimestamp": {
-      "mtime": 1736240594000,
-      "uuid": "773aae95-19d3-4de1-887d-f68b5fa67770"
-    },
-    "chunkId": "assets/Scripts/Const/interface.js",
-    "imports": [
-      {
-        "value": "cc"
-      }
-    ],
-    "modLoMetadata": {
-      "type": "esm"
-    },
-    "resolvedImports": [
-      {
-        "isExternal": false,
-        "url": "cce:/internal/x/cc"
-      }
-    ]
-  },
-  "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/AdHelper/IronSource.ts": {
-    "mTimestamp": {
-      "mtime": 1734602012000,
+      "mtime": 1742956824957.2896,
       "uuid": "b6c66277-217f-4536-809a-48462fc2596e"
     },
     "chunkId": "assets/Scripts/AdHelper/IronSource.js",
@@ -10982,17 +10961,17 @@
       },
       {
         "isExternal": false,
-        "url": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Const/CONST.ts"
+        "url": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Const/CONST.ts"
       },
       {
         "isExternal": false,
-        "url": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Controller/SoundController.ts"
+        "url": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Controller/SoundController.ts"
       }
     ]
   },
-  "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Controller/GameController.ts": {
+  "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Controller/GameController.ts": {
     "mTimestamp": {
-      "mtime": 1742921338837.5166,
+      "mtime": 1742971060540.3875,
       "uuid": "9aa2e1c5-d023-4c31-a92d-0c1bf2005386"
     },
     "chunkId": "assets/Scripts/Controller/GameController.js",
@@ -11078,21 +11057,80 @@
       },
       {
         "isExternal": false,
-        "url": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Controller/SoundController.ts"
+        "url": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Controller/SoundController.ts"
       },
       {
         "isExternal": false,
-        "url": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Const/GameInfo.ts"
+        "url": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Const/GameInfo.ts"
       },
       {
         "isExternal": false,
-        "url": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Const/CONST.ts"
+        "url": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Const/CONST.ts"
       }
     ]
   },
-  "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Controller/SoundController.ts": {
+  "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Const/GameInfo.ts": {
     "mTimestamp": {
-      "mtime": 1742921365563.1113,
+      "mtime": 1742956824958.2893,
+      "uuid": "8208e254-7f17-4f4e-8770-ae92221db73e"
+    },
+    "chunkId": "assets/Scripts/Const/GameInfo.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 33
+          },
+          "end": {
+            "line": 1,
+            "column": 37
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Const/interface.ts": {
+    "mTimestamp": {
+      "mtime": 1742956824958.2893,
+      "uuid": "773aae95-19d3-4de1-887d-f68b5fa67770"
+    },
+    "chunkId": "assets/Scripts/Const/interface.js",
+    "imports": [
+      {
+        "value": "cc"
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Controller/SoundController.ts": {
+    "mTimestamp": {
+      "mtime": 1742968906808.3975,
       "uuid": "6b331de7-4b55-4a08-b095-681f437f548a"
     },
     "chunkId": "assets/Scripts/Controller/SoundController.js",
@@ -11150,13 +11188,13 @@
       },
       {
         "isExternal": false,
-        "url": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Utils/Singleton.ts"
+        "url": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Utils/Singleton.ts"
       }
     ]
   },
-  "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Const/CONST.ts": {
+  "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Const/CONST.ts": {
     "mTimestamp": {
-      "mtime": 1732353086000,
+      "mtime": 1742956824957.2896,
       "uuid": "703629a5-5db0-4bf7-9720-84e49e17521d"
     },
     "chunkId": "assets/Scripts/Const/CONST.js",
@@ -11175,145 +11213,9 @@
       }
     ]
   },
-  "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Controller/UIGameController.ts": {
+  "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/GamePlay/HideMask.ts": {
     "mTimestamp": {
-      "mtime": 1735638304000,
-      "uuid": "eae0a180-6b6c-41fb-bf24-e054165f939c"
-    },
-    "chunkId": "assets/Scripts/Controller/UIGameController.js",
-    "imports": [
-      {
-        "value": "cce:/internal/code-quality/cr.mjs",
-        "rewritten": "__unresolved_0"
-      },
-      {
-        "value": "cc"
-      },
-      {
-        "value": "cc",
-        "loc": {
-          "start": {
-            "line": 2,
-            "column": 151
-          },
-          "end": {
-            "line": 2,
-            "column": 155
-          }
-        }
-      },
-      {
-        "value": "../Const/GameInfo",
-        "rewritten": "__unresolved_1",
-        "loc": {
-          "start": {
-            "line": 3,
-            "column": 25
-          },
-          "end": {
-            "line": 3,
-            "column": 44
-          }
-        }
-      },
-      {
-        "value": "./SoundController",
-        "rewritten": "__unresolved_2",
-        "loc": {
-          "start": {
-            "line": 4,
-            "column": 32
-          },
-          "end": {
-            "line": 4,
-            "column": 51
-          }
-        }
-      },
-      {
-        "value": "../Const/CONST",
-        "rewritten": "__unresolved_3",
-        "loc": {
-          "start": {
-            "line": 5,
-            "column": 22
-          },
-          "end": {
-            "line": 5,
-            "column": 38
-          }
-        }
-      },
-      {
-        "value": "./GameController",
-        "rewritten": "__unresolved_4",
-        "loc": {
-          "start": {
-            "line": 6,
-            "column": 31
-          },
-          "end": {
-            "line": 6,
-            "column": 49
-          }
-        }
-      },
-      {
-        "value": "../Others/HandleLogicGamePlay",
-        "rewritten": "__unresolved_5",
-        "loc": {
-          "start": {
-            "line": 7,
-            "column": 30
-          },
-          "end": {
-            "line": 7,
-            "column": 61
-          }
-        }
-      }
-    ],
-    "modLoMetadata": {
-      "type": "esm"
-    },
-    "resolvedImports": [
-      {
-        "isExternal": false,
-        "url": "cce:/internal/code-quality/cr.mjs"
-      },
-      {
-        "isExternal": false,
-        "url": "cce:/internal/x/cc"
-      },
-      {
-        "isExternal": false,
-        "url": "cce:/internal/x/cc"
-      },
-      {
-        "isExternal": false,
-        "url": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Const/GameInfo.ts"
-      },
-      {
-        "isExternal": false,
-        "url": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Controller/SoundController.ts"
-      },
-      {
-        "isExternal": false,
-        "url": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Const/CONST.ts"
-      },
-      {
-        "isExternal": false,
-        "url": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Controller/GameController.ts"
-      },
-      {
-        "isExternal": false,
-        "url": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Others/HandleLogicGamePlay.ts"
-      }
-    ]
-  },
-  "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/GamePlay/HideMask.ts": {
-    "mTimestamp": {
-      "mtime": 1742796684000,
+      "mtime": 1742971057277.0505,
       "uuid": "f6c02d92-2a89-49d0-b14e-d4bba72e5a8f"
     },
     "chunkId": "assets/Scripts/GamePlay/HideMask.js",
@@ -11427,33 +11329,37 @@
       },
       {
         "isExternal": false,
-        "url": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Const/GameInfo.ts"
+        "url": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Const/GameInfo.ts"
       },
       {
         "isExternal": false,
-        "url": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Controller/UIGameController.ts"
+        "url": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Controller/UIGameController.ts"
       },
       {
         "isExternal": false,
-        "url": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Const/CONST.ts"
+        "url": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Const/CONST.ts"
       },
       {
         "isExternal": false,
-        "url": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Controller/GameController.ts"
+        "url": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Controller/GameController.ts"
       },
       {
         "isExternal": false,
-        "url": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Controller/SoundController.ts"
+        "url": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Controller/SoundController.ts"
       }
     ]
   },
-  "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Const/GameInfo.ts": {
+  "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Controller/UIGameController.ts": {
     "mTimestamp": {
-      "mtime": 1742796380000,
-      "uuid": "8208e254-7f17-4f4e-8770-ae92221db73e"
+      "mtime": 1742971006154.0234,
+      "uuid": "eae0a180-6b6c-41fb-bf24-e054165f939c"
     },
-    "chunkId": "assets/Scripts/Const/GameInfo.js",
+    "chunkId": "assets/Scripts/Controller/UIGameController.js",
     "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
       {
         "value": "cc"
       },
@@ -11461,12 +11367,82 @@
         "value": "cc",
         "loc": {
           "start": {
-            "line": 1,
-            "column": 33
+            "line": 2,
+            "column": 151
           },
           "end": {
-            "line": 1,
-            "column": 37
+            "line": 2,
+            "column": 155
+          }
+        }
+      },
+      {
+        "value": "../Const/GameInfo",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 25
+          },
+          "end": {
+            "line": 3,
+            "column": 44
+          }
+        }
+      },
+      {
+        "value": "./SoundController",
+        "rewritten": "__unresolved_2",
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 32
+          },
+          "end": {
+            "line": 4,
+            "column": 51
+          }
+        }
+      },
+      {
+        "value": "../Const/CONST",
+        "rewritten": "__unresolved_3",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 22
+          },
+          "end": {
+            "line": 5,
+            "column": 38
+          }
+        }
+      },
+      {
+        "value": "./GameController",
+        "rewritten": "__unresolved_4",
+        "loc": {
+          "start": {
+            "line": 6,
+            "column": 31
+          },
+          "end": {
+            "line": 6,
+            "column": 49
+          }
+        }
+      },
+      {
+        "value": "../Others/HandleLogicGamePlay",
+        "rewritten": "__unresolved_5",
+        "loc": {
+          "start": {
+            "line": 7,
+            "column": 30
+          },
+          "end": {
+            "line": 7,
+            "column": 61
           }
         }
       }
@@ -11477,17 +11453,41 @@
     "resolvedImports": [
       {
         "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
         "url": "cce:/internal/x/cc"
       },
       {
         "isExternal": false,
         "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Const/GameInfo.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Controller/SoundController.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Const/CONST.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Controller/GameController.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Others/HandleLogicGamePlay.ts"
       }
     ]
   },
-  "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Money/MoneyBehavior.ts": {
+  "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Money/MoneyBehavior.ts": {
     "mTimestamp": {
-      "mtime": 1734424220000,
+      "mtime": 1742956824960.2893,
       "uuid": "db6cfe8a-cbe0-4778-9f82-37ffa312a529"
     },
     "chunkId": "assets/Scripts/Money/MoneyBehavior.js",
@@ -11573,85 +11573,21 @@
       },
       {
         "isExternal": false,
-        "url": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Const/GameInfo.ts"
+        "url": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Const/GameInfo.ts"
       },
       {
         "isExternal": false,
-        "url": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Controller/SoundController.ts"
+        "url": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Controller/SoundController.ts"
       },
       {
         "isExternal": false,
-        "url": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Const/CONST.ts"
+        "url": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Const/CONST.ts"
       }
     ]
   },
-  "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Options/PA_06/PA_06_Camera.ts": {
+  "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/NPC/NPC_Behavior.ts": {
     "mTimestamp": {
-      "mtime": 1735898048000,
-      "uuid": "ff234b8f-5b2e-4507-b4f1-b7f3409a6e46"
-    },
-    "chunkId": "assets/Scripts/Options/PA_06/PA_06_Camera.js",
-    "imports": [
-      {
-        "value": "cce:/internal/code-quality/cr.mjs",
-        "rewritten": "__unresolved_0"
-      },
-      {
-        "value": "cc"
-      },
-      {
-        "value": "cc",
-        "loc": {
-          "start": {
-            "line": 2,
-            "column": 65
-          },
-          "end": {
-            "line": 2,
-            "column": 69
-          }
-        }
-      },
-      {
-        "value": "../../Const/GameInfo",
-        "rewritten": "__unresolved_1",
-        "loc": {
-          "start": {
-            "line": 3,
-            "column": 25
-          },
-          "end": {
-            "line": 3,
-            "column": 47
-          }
-        }
-      }
-    ],
-    "modLoMetadata": {
-      "type": "esm"
-    },
-    "resolvedImports": [
-      {
-        "isExternal": false,
-        "url": "cce:/internal/code-quality/cr.mjs"
-      },
-      {
-        "isExternal": false,
-        "url": "cce:/internal/x/cc"
-      },
-      {
-        "isExternal": false,
-        "url": "cce:/internal/x/cc"
-      },
-      {
-        "isExternal": false,
-        "url": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Const/GameInfo.ts"
-      }
-    ]
-  },
-  "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/NPC/NPC_Behavior.ts": {
-    "mTimestamp": {
-      "mtime": 1734517624000,
+      "mtime": 1742956824961.2893,
       "uuid": "d8c38fe6-6ba7-4787-b65f-0c23e085a38b"
     },
     "chunkId": "assets/Scripts/NPC/NPC_Behavior.js",
@@ -11709,13 +11645,261 @@
       },
       {
         "isExternal": false,
-        "url": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Const/GameInfo.ts"
+        "url": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Const/GameInfo.ts"
       }
     ]
   },
-  "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Options/PA_06/PA_06_HideMask.ts": {
+  "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/NPC/NPC_Customer.ts": {
     "mTimestamp": {
-      "mtime": 1735900508000,
+      "mtime": 1742956824961.2893,
+      "uuid": "cf75c160-47e9-4bc6-9107-9179cf276d83"
+    },
+    "chunkId": "assets/Scripts/NPC/NPC_Customer.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 69
+          },
+          "end": {
+            "line": 1,
+            "column": 73
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Money/UserMoney.ts": {
+    "mTimestamp": {
+      "mtime": 1742956824960.2893,
+      "uuid": "022b16ce-fd93-4038-8934-0537fb72c0cf"
+    },
+    "chunkId": "assets/Scripts/Money/UserMoney.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 51
+          },
+          "end": {
+            "line": 2,
+            "column": 55
+          }
+        }
+      },
+      {
+        "value": "../Const/GameInfo",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 25
+          },
+          "end": {
+            "line": 3,
+            "column": 44
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Const/GameInfo.ts"
+      }
+    ]
+  },
+  "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Options/PA_06/PA_06_Camera.ts": {
+    "mTimestamp": {
+      "mtime": 1742956824962.2893,
+      "uuid": "ff234b8f-5b2e-4507-b4f1-b7f3409a6e46"
+    },
+    "chunkId": "assets/Scripts/Options/PA_06/PA_06_Camera.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 65
+          },
+          "end": {
+            "line": 2,
+            "column": 69
+          }
+        }
+      },
+      {
+        "value": "../../Const/GameInfo",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 25
+          },
+          "end": {
+            "line": 3,
+            "column": 47
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Const/GameInfo.ts"
+      }
+    ]
+  },
+  "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/NPC/NPC_Controller.ts": {
+    "mTimestamp": {
+      "mtime": 1742956824961.2893,
+      "uuid": "734ed68a-2c14-4bc8-9a1e-61f0a0ad1f61"
+    },
+    "chunkId": "assets/Scripts/NPC/NPC_Controller.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 44
+          },
+          "end": {
+            "line": 2,
+            "column": 48
+          }
+        }
+      },
+      {
+        "value": "../Const/GameInfo",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 25
+          },
+          "end": {
+            "line": 3,
+            "column": 44
+          }
+        }
+      },
+      {
+        "value": "./NPC_Behavior",
+        "rewritten": "__unresolved_2",
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 29
+          },
+          "end": {
+            "line": 4,
+            "column": 45
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Const/GameInfo.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/NPC/NPC_Behavior.ts"
+      }
+    ]
+  },
+  "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Options/PA_06/PA_06_HideMask.ts": {
+    "mTimestamp": {
+      "mtime": 1742969047639.9265,
       "uuid": "1604352f-b58e-43cf-a047-bbae39828225"
     },
     "chunkId": "assets/Scripts/Options/PA_06/PA_06_HideMask.js",
@@ -11801,25 +11985,29 @@
       },
       {
         "isExternal": false,
-        "url": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Const/GameInfo.ts"
+        "url": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Const/GameInfo.ts"
       },
       {
         "isExternal": false,
-        "url": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Options/PA_06/PA_06_GamePlay.ts"
+        "url": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Options/PA_06/PA_06_GamePlay.ts"
       },
       {
         "isExternal": false,
-        "url": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/AdHelper/IronSource.ts"
+        "url": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/AdHelper/IronSource.ts"
       }
     ]
   },
-  "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/NPC/NPC_Customer.ts": {
+  "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Options/PA_07/GamePlay/PA_07_Camera.ts": {
     "mTimestamp": {
-      "mtime": 1735635480000,
-      "uuid": "cf75c160-47e9-4bc6-9107-9179cf276d83"
+      "mtime": 1742956824964.2893,
+      "uuid": "7e7a283c-3490-4d86-aed5-9fbd704a3a89"
     },
-    "chunkId": "assets/Scripts/NPC/NPC_Customer.js",
+    "chunkId": "assets/Scripts/Options/PA_07/GamePlay/PA_07_Camera.js",
     "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
       {
         "value": "cc"
       },
@@ -11827,59 +12015,17 @@
         "value": "cc",
         "loc": {
           "start": {
-            "line": 1,
+            "line": 2,
+            "column": 65
+          },
+          "end": {
+            "line": 2,
             "column": 69
-          },
-          "end": {
-            "line": 1,
-            "column": 73
-          }
-        }
-      }
-    ],
-    "modLoMetadata": {
-      "type": "esm"
-    },
-    "resolvedImports": [
-      {
-        "isExternal": false,
-        "url": "cce:/internal/x/cc"
-      },
-      {
-        "isExternal": false,
-        "url": "cce:/internal/x/cc"
-      }
-    ]
-  },
-  "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/NPC/NPC_Controller.ts": {
-    "mTimestamp": {
-      "mtime": 1732353088000,
-      "uuid": "734ed68a-2c14-4bc8-9a1e-61f0a0ad1f61"
-    },
-    "chunkId": "assets/Scripts/NPC/NPC_Controller.js",
-    "imports": [
-      {
-        "value": "cce:/internal/code-quality/cr.mjs",
-        "rewritten": "__unresolved_0"
-      },
-      {
-        "value": "cc"
-      },
-      {
-        "value": "cc",
-        "loc": {
-          "start": {
-            "line": 2,
-            "column": 44
-          },
-          "end": {
-            "line": 2,
-            "column": 48
           }
         }
       },
       {
-        "value": "../Const/GameInfo",
+        "value": "../../../Const/GameInfo",
         "rewritten": "__unresolved_1",
         "loc": {
           "start": {
@@ -11888,21 +12034,7 @@
           },
           "end": {
             "line": 3,
-            "column": 44
-          }
-        }
-      },
-      {
-        "value": "./NPC_Behavior",
-        "rewritten": "__unresolved_2",
-        "loc": {
-          "start": {
-            "line": 4,
-            "column": 29
-          },
-          "end": {
-            "line": 4,
-            "column": 45
+            "column": 50
           }
         }
       }
@@ -11925,81 +12057,13 @@
       },
       {
         "isExternal": false,
-        "url": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Const/GameInfo.ts"
-      },
-      {
-        "isExternal": false,
-        "url": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/NPC/NPC_Behavior.ts"
+        "url": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Const/GameInfo.ts"
       }
     ]
   },
-  "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Money/UserMoney.ts": {
+  "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Options/PA_06/PA_06_GamePlay.ts": {
     "mTimestamp": {
-      "mtime": 1735637964000,
-      "uuid": "022b16ce-fd93-4038-8934-0537fb72c0cf"
-    },
-    "chunkId": "assets/Scripts/Money/UserMoney.js",
-    "imports": [
-      {
-        "value": "cce:/internal/code-quality/cr.mjs",
-        "rewritten": "__unresolved_0"
-      },
-      {
-        "value": "cc"
-      },
-      {
-        "value": "cc",
-        "loc": {
-          "start": {
-            "line": 2,
-            "column": 51
-          },
-          "end": {
-            "line": 2,
-            "column": 55
-          }
-        }
-      },
-      {
-        "value": "../Const/GameInfo",
-        "rewritten": "__unresolved_1",
-        "loc": {
-          "start": {
-            "line": 3,
-            "column": 25
-          },
-          "end": {
-            "line": 3,
-            "column": 44
-          }
-        }
-      }
-    ],
-    "modLoMetadata": {
-      "type": "esm"
-    },
-    "resolvedImports": [
-      {
-        "isExternal": false,
-        "url": "cce:/internal/code-quality/cr.mjs"
-      },
-      {
-        "isExternal": false,
-        "url": "cce:/internal/x/cc"
-      },
-      {
-        "isExternal": false,
-        "url": "cce:/internal/x/cc"
-      },
-      {
-        "isExternal": false,
-        "url": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Const/GameInfo.ts"
-      }
-    ]
-  },
-  "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Options/PA_06/PA_06_GamePlay.ts": {
-    "mTimestamp": {
-      "mtime": 1735899694000,
+      "mtime": 1742967597883.6125,
       "uuid": "72988b49-7f92-4315-bd44-c330fe244ea8"
     },
     "chunkId": "assets/Scripts/Options/PA_06/PA_06_GamePlay.js",
@@ -12099,89 +12163,25 @@
       },
       {
         "isExternal": false,
-        "url": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Const/GameInfo.ts"
+        "url": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Const/GameInfo.ts"
       },
       {
         "isExternal": false,
-        "url": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Options/PA_06/PA_06_Camera.ts"
+        "url": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Options/PA_06/PA_06_Camera.ts"
       },
       {
         "isExternal": false,
-        "url": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Controller/SoundController.ts"
+        "url": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Controller/SoundController.ts"
       },
       {
         "isExternal": false,
-        "url": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Const/CONST.ts"
+        "url": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Const/CONST.ts"
       }
     ]
   },
-  "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Options/PA_06/PA_06_TimeCountDown.ts": {
+  "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Options/PA_06/PA_06_NPC_Controller.ts": {
     "mTimestamp": {
-      "mtime": 1735896836000,
-      "uuid": "aa0e336d-d398-461a-97a2-45a164a2b5d0"
-    },
-    "chunkId": "assets/Scripts/Options/PA_06/PA_06_TimeCountDown.js",
-    "imports": [
-      {
-        "value": "cce:/internal/code-quality/cr.mjs",
-        "rewritten": "__unresolved_0"
-      },
-      {
-        "value": "cc"
-      },
-      {
-        "value": "cc",
-        "loc": {
-          "start": {
-            "line": 2,
-            "column": 57
-          },
-          "end": {
-            "line": 2,
-            "column": 61
-          }
-        }
-      },
-      {
-        "value": "../../Const/GameInfo",
-        "rewritten": "__unresolved_1",
-        "loc": {
-          "start": {
-            "line": 3,
-            "column": 25
-          },
-          "end": {
-            "line": 3,
-            "column": 47
-          }
-        }
-      }
-    ],
-    "modLoMetadata": {
-      "type": "esm"
-    },
-    "resolvedImports": [
-      {
-        "isExternal": false,
-        "url": "cce:/internal/code-quality/cr.mjs"
-      },
-      {
-        "isExternal": false,
-        "url": "cce:/internal/x/cc"
-      },
-      {
-        "isExternal": false,
-        "url": "cce:/internal/x/cc"
-      },
-      {
-        "isExternal": false,
-        "url": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Const/GameInfo.ts"
-      }
-    ]
-  },
-  "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Options/PA_06/PA_06_NPC_Controller.ts": {
-    "mTimestamp": {
-      "mtime": 1735899452000,
+      "mtime": 1742956824963.2893,
       "uuid": "7ea12169-5720-45a1-ac0c-4ca9d669a0ce"
     },
     "chunkId": "assets/Scripts/Options/PA_06/PA_06_NPC_Controller.js",
@@ -12239,13 +12239,13 @@
       },
       {
         "isExternal": false,
-        "url": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Const/GameInfo.ts"
+        "url": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Const/GameInfo.ts"
       }
     ]
   },
-  "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Options/PA_07/GamePlay/PA_07_GamePlay.ts": {
+  "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Options/PA_07/GamePlay/PA_07_GamePlay.ts": {
     "mTimestamp": {
-      "mtime": 1742924394385.7954,
+      "mtime": 1742956824964.2893,
       "uuid": "e3148e1e-9a6a-416f-b28d-913da6a9294f"
     },
     "chunkId": "assets/Scripts/Options/PA_07/GamePlay/PA_07_GamePlay.js",
@@ -12331,24 +12331,24 @@
       },
       {
         "isExternal": false,
-        "url": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Const/GameInfo.ts"
+        "url": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Const/GameInfo.ts"
       },
       {
         "isExternal": false,
-        "url": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Others/CTA.ts"
+        "url": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Others/CTA.ts"
       },
       {
         "isExternal": false,
-        "url": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Controller/SoundController.ts"
+        "url": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Controller/SoundController.ts"
       }
     ]
   },
-  "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Options/PA_07/GamePlay/PA_07_Camera.ts": {
+  "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Options/PA_06/PA_06_TimeCountDown.ts": {
     "mTimestamp": {
-      "mtime": 1736241248000,
-      "uuid": "7e7a283c-3490-4d86-aed5-9fbd704a3a89"
+      "mtime": 1742956824963.2893,
+      "uuid": "aa0e336d-d398-461a-97a2-45a164a2b5d0"
     },
-    "chunkId": "assets/Scripts/Options/PA_07/GamePlay/PA_07_Camera.js",
+    "chunkId": "assets/Scripts/Options/PA_06/PA_06_TimeCountDown.js",
     "imports": [
       {
         "value": "cce:/internal/code-quality/cr.mjs",
@@ -12362,16 +12362,16 @@
         "loc": {
           "start": {
             "line": 2,
-            "column": 65
+            "column": 57
           },
           "end": {
             "line": 2,
-            "column": 69
+            "column": 61
           }
         }
       },
       {
-        "value": "../../../Const/GameInfo",
+        "value": "../../Const/GameInfo",
         "rewritten": "__unresolved_1",
         "loc": {
           "start": {
@@ -12380,7 +12380,7 @@
           },
           "end": {
             "line": 3,
-            "column": 50
+            "column": 47
           }
         }
       }
@@ -12403,13 +12403,13 @@
       },
       {
         "isExternal": false,
-        "url": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Const/GameInfo.ts"
+        "url": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Const/GameInfo.ts"
       }
     ]
   },
-  "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Options/PA_07/GamePlay/PA_07_HideMask.ts": {
+  "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Options/PA_07/GamePlay/PA_07_HideMask.ts": {
     "mTimestamp": {
-      "mtime": 1742924345464.417,
+      "mtime": 1742956824965.2896,
       "uuid": "2ddb58d7-4fb6-4d74-9000-6f9f8de299e5"
     },
     "chunkId": "assets/Scripts/Options/PA_07/GamePlay/PA_07_HideMask.js",
@@ -12509,25 +12509,25 @@
       },
       {
         "isExternal": false,
-        "url": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Const/GameInfo.ts"
+        "url": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Const/GameInfo.ts"
       },
       {
         "isExternal": false,
-        "url": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Options/PA_07/GamePlay/PA_07_GamePlay.ts"
+        "url": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Options/PA_07/GamePlay/PA_07_GamePlay.ts"
       },
       {
         "isExternal": false,
-        "url": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Controller/SoundController.ts"
+        "url": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Controller/SoundController.ts"
       },
       {
         "isExternal": false,
-        "url": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Controller/GameController.ts"
+        "url": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Controller/GameController.ts"
       }
     ]
   },
-  "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Others/CTA.ts": {
+  "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Others/CTA.ts": {
     "mTimestamp": {
-      "mtime": 1736243674000,
+      "mtime": 1742956824966.2893,
       "uuid": "b29dfc99-974c-47fb-b4a0-e8a10591e022"
     },
     "chunkId": "assets/Scripts/Others/CTA.js",
@@ -12599,17 +12599,17 @@
       },
       {
         "isExternal": false,
-        "url": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Const/GameInfo.ts"
+        "url": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Const/GameInfo.ts"
       },
       {
         "isExternal": false,
-        "url": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Controller/GameController.ts"
+        "url": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Controller/GameController.ts"
       }
     ]
   },
-  "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Utils/EnablePhysics.ts": {
+  "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Utils/EnablePhysics.ts": {
     "mTimestamp": {
-      "mtime": 1732353088000,
+      "mtime": 1742956824970.29,
       "uuid": "bcf6df5e-8eb1-488a-b217-771bcdc22457"
     },
     "chunkId": "assets/Scripts/Utils/EnablePhysics.js",
@@ -12645,73 +12645,9 @@
       }
     ]
   },
-  "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Others/HandleLogicGamePlay.ts": {
+  "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Utils/Responsive.ts": {
     "mTimestamp": {
-      "mtime": 1732357172000,
-      "uuid": "45fe3322-0661-48ba-b1ba-b8f4ddcac881"
-    },
-    "chunkId": "assets/Scripts/Others/HandleLogicGamePlay.js",
-    "imports": [
-      {
-        "value": "cce:/internal/code-quality/cr.mjs",
-        "rewritten": "__unresolved_0"
-      },
-      {
-        "value": "cc"
-      },
-      {
-        "value": "cc",
-        "loc": {
-          "start": {
-            "line": 1,
-            "column": 100
-          },
-          "end": {
-            "line": 1,
-            "column": 104
-          }
-        }
-      },
-      {
-        "value": "../Const/GameInfo",
-        "rewritten": "__unresolved_1",
-        "loc": {
-          "start": {
-            "line": 2,
-            "column": 25
-          },
-          "end": {
-            "line": 2,
-            "column": 44
-          }
-        }
-      }
-    ],
-    "modLoMetadata": {
-      "type": "esm"
-    },
-    "resolvedImports": [
-      {
-        "isExternal": false,
-        "url": "cce:/internal/code-quality/cr.mjs"
-      },
-      {
-        "isExternal": false,
-        "url": "cce:/internal/x/cc"
-      },
-      {
-        "isExternal": false,
-        "url": "cce:/internal/x/cc"
-      },
-      {
-        "isExternal": false,
-        "url": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Const/GameInfo.ts"
-      }
-    ]
-  },
-  "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Utils/Responsive.ts": {
-    "mTimestamp": {
-      "mtime": 1732359874000,
+      "mtime": 1742956824970.29,
       "uuid": "ff71ea16-94c0-487e-bf0d-6f6375515da5"
     },
     "chunkId": "assets/Scripts/Utils/Responsive.js",
@@ -12769,13 +12705,77 @@
       },
       {
         "isExternal": false,
-        "url": "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Controller/UIGameController.ts"
+        "url": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Controller/UIGameController.ts"
       }
     ]
   },
-  "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Utils/Singleton.ts": {
+  "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Others/HandleLogicGamePlay.ts": {
     "mTimestamp": {
-      "mtime": 1732353088000,
+      "mtime": 1742956824966.2893,
+      "uuid": "45fe3322-0661-48ba-b1ba-b8f4ddcac881"
+    },
+    "chunkId": "assets/Scripts/Others/HandleLogicGamePlay.js",
+    "imports": [
+      {
+        "value": "cce:/internal/code-quality/cr.mjs",
+        "rewritten": "__unresolved_0"
+      },
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 100
+          },
+          "end": {
+            "line": 1,
+            "column": 104
+          }
+        }
+      },
+      {
+        "value": "../Const/GameInfo",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 25
+          },
+          "end": {
+            "line": 2,
+            "column": 44
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/code-quality/cr.mjs"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Const/GameInfo.ts"
+      }
+    ]
+  },
+  "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Utils/Singleton.ts": {
+    "mTimestamp": {
+      "mtime": 1742956824970.29,
       "uuid": "68e71e46-300a-45c6-a436-7aa7acd49d56"
     },
     "chunkId": "assets/Scripts/Utils/Singleton.js",
@@ -12811,9 +12811,9 @@
       }
     ]
   },
-  "file:///D:/CongViec_HocTap/CongTy/Amobear/SupermarketTycoon3D/assets/Scripts/Utils/Utility.ts": {
+  "file:///D:/IEC/Testing/Amobear_Supermarket/assets/Scripts/Utils/Utility.ts": {
     "mTimestamp": {
-      "mtime": 1732353088000,
+      "mtime": 1742956824970.29,
       "uuid": "29ed240b-aa91-4932-a5a4-5ca3411d6bd9"
     },
     "chunkId": "assets/Scripts/Utils/Utility.js",

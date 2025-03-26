@@ -45,7 +45,7 @@ export class HideMask extends Component {
         this.init();
         this.registerEvent();
     }
- 
+
 
     private registerEvent(): void {
         this.node.on(Node.EventType.TOUCH_START, this.touchStart, this);
@@ -54,7 +54,7 @@ export class HideMask extends Component {
 
     private touchStart(event: EventTouch): void {
         if (!GameInfo.isCanTouch) return;
-        
+
         // IronSource.handleIronSourcePlaySound();
 
         // if(GameInfo.isToStore || GameInfo.IsShowPopupInstall || GameInfo.currentSuccessClick >= 4) {
@@ -62,8 +62,6 @@ export class HideMask extends Component {
         //     return;
         // }
 
-        console.log("ahihi")
-        
         this.getRaycastResult(event);
     }
 
@@ -76,26 +74,18 @@ export class HideMask extends Component {
         const maxDistance = 10000000;
         const queryTrigger = true;
 
-
-         console.log("ahihi")
-
         if (PhysicsSystem.instance.raycastClosest(ray, mask, maxDistance, queryTrigger)) {
             const raycastClosestResult = PhysicsSystem.instance.raycastClosestResult;
             // const hitPoint = raycastClosestResult.hitPoint
             // const hitNormal = raycastClosestResult.hitNormal;
             const collider = raycastClosestResult.collider;
             // const distance = raycastClosestResult;   
-            
-            if(collider.node.name === "Watermelon_LOD0" 
-                || collider.node.name === "item_Flour" 
-                || collider.node.name === "item_Toilet_Paper_LOD0") 
-            {
+    
+            if (collider.node.name === "Watermelon_LOD0"
+                || collider.node.name === "item_Flour"
+                || collider.node.name === "item_Toilet_Paper_LOD0") {
 
-
- console.log("ahihi")
-
-
-                if(GameInfo.isToStore || GameInfo.IsShowPopupInstall || GameInfo.currentSuccessClick >= 4) {
+                if (GameInfo.isToStore || GameInfo.IsShowPopupInstall || GameInfo.currentSuccessClick >= 4) {
                     this.GameController.installHandle();
                     return;
                 }
@@ -105,11 +95,11 @@ export class HideMask extends Component {
 
                 GameInfo.currentItems -= 1;
 
-                if(collider.node.name === "Watermelon_LOD0") GameInfo.currentTotalCost += 15;
-                if(collider.node.name === "item_Flour") GameInfo.currentTotalCost += 25;
-                if(collider.node.name === "item_Toilet_Paper_LOD0") GameInfo.currentTotalCost += 20;
+                if (collider.node.name === "Watermelon_LOD0") GameInfo.currentTotalCost += 15;
+                if (collider.node.name === "item_Flour") GameInfo.currentTotalCost += 25;
+                if (collider.node.name === "item_Toilet_Paper_LOD0") GameInfo.currentTotalCost += 20;
 
-                if(GameInfo.currentItems === 0) this.UIGameController.Tut_1.active = true;
+                if (GameInfo.currentItems === 0) this.UIGameController.Tut_1.active = true;
 
                 collider.node.active = false;
 
@@ -119,22 +109,21 @@ export class HideMask extends Component {
             }
 
 
-            if(collider.node.name === "Money" 
-                || collider.node.name === "CC" ) 
-            {
+            if (collider.node.name === "Money"
+                || collider.node.name === "CC") {
                 GameInfo.NPCpaidTimes += 1;
 
                 collider.node.active = false;
 
                 SoundController.Instance(SoundController).PlaySound(CONST.SoundTrack.paidSound);
-                
+
                 this.UIGameController.Tut_1.active = false;
 
                 // payment with cash
-                if(collider.node.name === "Money") {
+                if (collider.node.name === "Money") {
 
                     GameInfo.currentReceive += 100;
-        
+
                     this.UIGameController.TouchArea_GiveTheChange.active = true;
 
                     this.UIGameController.Tut_3.active = true;
@@ -150,11 +139,11 @@ export class HideMask extends Component {
 
                     this.UIGameController.PcScreen_Receive.active = false;
                 }
- 
+
             }
 
             // log(raycastClosestResult)
-        }
+        } 
     }
 
 }
